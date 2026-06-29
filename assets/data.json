@@ -1,0 +1,92 @@
+{
+  "carouselSlides": [
+    {
+      "title": "aether",
+      "image": "./assets/images/video1.mp4"
+    },
+    {
+      "title": "City Life",
+      "image": "./assets/images/video2.mp4"
+    },
+    {
+      "title": "Forest Escape",
+      "image": "./assets/images/video3.mp4"
+    },
+    {
+      "title": "Queso",
+      "image": "./assets/images/video4.mp4"
+    }
+  ],
+  "productsData": {
+    "1": {
+      "varieties": [
+        {
+          "name": "elemental hydra-serum",
+          "desc": "5% niacinamide + hyaluronic acid",
+          "price": "$48.00",
+          "style": { "hue": "0deg", "sat": "1", "bright": "1" }
+        },
+        {
+          "name": "rose essence hydra-serum",
+          "desc": "organic Bulgarian rosewater + hyaluronic acid",
+          "price": "$52.00",
+          "style": { "hue": "320deg", "sat": "1.5", "bright": "1.1" }
+        },
+        {
+          "name": "citrus glowing hydra-serum",
+          "desc": "3% vitamin C + hyaluronic acid + orange peel oil",
+          "price": "$50.00",
+          "style": { "hue": "20deg", "sat": "1.8", "bright": "1.15" }
+        }
+      ]
+    },
+    "2": {
+      "varieties": [
+        {
+          "name": "celestial night oil",
+          "desc": "1% retinol + blue tansy + marula oil",
+          "price": "$54.00",
+          "style": { "hue": "235deg", "sat": "2", "bright": "0.8" }
+        },
+        {
+          "name": "bakuchiol nocturnal repair",
+          "desc": "2% bakuchiol + rosehip seed oil + squalane",
+          "price": "$58.00",
+          "style": { "hue": "280deg", "sat": "1.8", "bright": "0.9" }
+        }
+      ]
+    },
+    "3": {
+      "varieties": [
+        {
+          "name": "solar active shield",
+          "desc": "spf 50+ broad spectrum + niacinamide",
+          "price": "$42.00",
+          "style": { "hue": "40deg", "sat": "1.6", "bright": "1.15" }
+        },
+        {
+          "name": "solar matte invisible",
+          "desc": "spf 50+ clear zinc + tea tree oil + silica",
+          "price": "$44.00",
+          "style": { "hue": "80deg", "sat": "1.1", "bright": "1.1" }
+        }
+      ]
+    },
+    "4": {
+      "varieties": [
+        {
+          "name": "botanical essence mist",
+          "desc": "algae extract + soothing mint + cucumber juice",
+          "price": "$36.00",
+          "style": { "hue": "140deg", "sat": "1.4", "bright": "1" }
+        },
+        {
+          "name": "botanical calming mist",
+          "desc": "algae extract + green tea extract + centella asiatica",
+          "price": "$38.00",
+          "style": { "hue": "100deg", "sat": "1.3", "bright": "1.05" }
+        }
+      ]
+    }
+  }
+}
