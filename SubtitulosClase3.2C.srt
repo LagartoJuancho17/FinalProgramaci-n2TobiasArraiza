@@ -1,0 +1,1091 @@
+1
+00:00:00,077 --> 00:00:02,010
+El packing list es el documento donde
+
+2
+00:00:02,010 --> 00:00:04,320
+deberíamos tener la mayor cantidad posible
+
+3
+00:00:04,320 --> 00:00:06,930
+de información sobre el volumen de nuestra
+
+4
+00:00:06,930 --> 00:00:09,930
+carga y del volumen que tiene embalada o
+
+5
+00:00:09,930 --> 00:00:12,726
+cómo va a viajar en el contenedor si es
+
+6
+00:00:12,726 --> 00:00:14,760
+vía marítima, o en el avión, o por donde
+
+7
+00:00:14,760 --> 00:00:15,090
+sea.
+
+8
+00:00:15,180 --> 00:00:16,386
+Es decir, por ejemplo, si yo voy a
+
+9
+00:00:16,386 --> 00:00:18,960
+importar estanterías, no me interesa acá
+
+10
+00:00:19,020 --> 00:00:21,714
+el tamaño de cada estantería armada, que
+
+11
+00:00:21,714 --> 00:00:23,520
+eso está más relacionado con el producto
+
+12
+00:00:23,520 --> 00:00:25,650
+terminado que estará descrito en la
+
+13
+00:00:25,856 --> 00:00:27,780
+proforma porque es como si fuera el modelo
+
+14
+00:00:27,780 --> 00:00:28,740
+de nuestro producto.
+
+15
+00:00:28,920 --> 00:00:31,680
+Pero no nos importa a fines de logística,
+
+16
+00:00:31,830 --> 00:00:33,360
+porque esas estanterías probablemente
+
+17
+00:00:33,360 --> 00:00:36,210
+vengan desarmadas en una cajita de no sé,
+
+18
+00:00:36,480 --> 00:00:39,300
+70 cm de largo por 30 de ancho, lo que
+
+19
+00:00:39,300 --> 00:00:39,630
+sea.
+
+20
+00:00:40,560 --> 00:00:43,050
+Ahora, si yo estoy comprando 50 de esas
+
+21
+00:00:43,050 --> 00:00:46,164
+cajas, quiero saber esas 50 cómo vienen:
+
+22
+00:00:46,170 --> 00:00:49,350
+si vienen con un pallet, si vienen en una
+
+23
+00:00:49,350 --> 00:00:51,690
+caja grande master de madera o si vienen
+
+24
+00:00:51,690 --> 00:00:52,740
+en cajas de cartón.
+
+25
+00:00:53,340 --> 00:00:56,489
+Si yo estoy comprando 50, las 50 agrupadas
+
+26
+00:00:56,489 --> 00:00:57,630
+qué tamaño tienen:
+
+27
+00:00:58,200 --> 00:00:59,730
+largo por ancho por alto.
+
+28
+00:00:59,730 --> 00:01:01,830
+Ahora, si yo estoy comprando 200 unidades,
+
+29
+00:01:01,890 --> 00:01:02,550
+¿cómo vienen?
+
+30
+00:01:02,550 --> 00:01:04,140
+¿Vienen divididas por ejemplo en cajas
+
+31
+00:01:04,140 --> 00:01:06,270
+master de a 50 unidades?
+
+32
+00:01:06,750 --> 00:01:08,850
+¿Vienen a granel (es decir, cada caja
+
+33
+00:01:08,850 --> 00:01:10,590
+suelta, no en otro bulto mayor)?
+
+34
+00:01:11,100 --> 00:01:14,099
+¿Vienen palletizadas de a 30 estanterías
+
+35
+00:01:14,099 --> 00:01:14,580
+por pallet?
+
+36
+00:01:14,640 --> 00:01:17,130
+Bueno, todo desinformación hola necesito
+
+37
+00:01:17,130 --> 00:01:18,210
+la información porque la logística en la
+
+38
+00:01:18,210 --> 00:01:19,860
+mayoría de los casos me lo van a cotizar
+
+39
+00:01:19,860 --> 00:01:21,780
+todo por metro cúbico.
+
+40
+00:01:21,900 --> 00:01:23,880
+Entonces necesito la información del bulto
+
+41
+00:01:23,880 --> 00:01:24,330
+final:
+
+42
+00:01:24,390 --> 00:01:25,050
+cuánto mide.
+
+43
+00:01:25,140 --> 00:01:26,850
+In lo que es vía aérea también importa el
+
+44
+00:01:26,850 --> 00:01:29,640
+peso, porque ahí nos cotizan por peso real
+
+45
+00:01:29,700 --> 00:01:31,890
+o por peso volumétrico, dependiendo cuál
+
+46
+00:01:31,890 --> 00:01:32,820
+sea el más alto.
+
+47
+00:01:33,660 --> 00:01:35,220
+Cuando veamos el tema de logística les
+
+48
+00:01:35,221 --> 00:01:36,960
+explico un poquito más al respecto, pero
+
+49
+00:01:36,960 --> 00:01:38,010
+ahora lo importante es importante entender
+
+50
+00:01:38,010 --> 00:01:39,690
+que esta información es superclave para
+
+51
+00:01:39,690 --> 00:01:41,280
+nosotros, porque si no, no podemos cotizar
+
+52
+00:01:41,340 --> 00:01:41,850
+nada.
+
+53
+00:01:42,330 --> 00:01:44,820
+Sin la información del volumen no podemos
+
+54
+00:01:44,820 --> 00:01:46,890
+cotizar el flete, y sin el valor del flete
+
+55
+00:01:46,890 --> 00:01:48,660
+no podemos cotizar los impuestos, porque
+
+56
+00:01:48,660 --> 00:01:50,490
+la mayoría se calculan sobre el valor de
+
+57
+00:01:50,490 --> 00:01:52,440
+la mercadería más el flete.
+
+58
+00:01:52,440 --> 00:01:54,420
+Y ni siquiera podemos cotizar los
+
+59
+00:01:54,420 --> 00:01:56,370
+honorarios del despachante, porque la
+
+60
+00:01:56,370 --> 00:01:57,870
+mayoría de los despachantes van a cobrar
+
+61
+00:01:57,870 --> 00:02:00,090
+un porcentaje sobre el valor CIF de
+
+62
+00:02:00,102 --> 00:02:01,800
+nuestra carga, es decir, mercadería más
+
+63
+00:02:01,800 --> 00:02:02,220
+flete.
+
+64
+00:02:03,060 --> 00:02:05,400
+Entonces, para empezar cualquier
+
+65
+00:02:05,400 --> 00:02:06,971
+operación, hay que tener estos datos de
+
+66
+00:02:07,140 --> 00:02:07,680
+volumen.
+
+67
+00:02:07,920 --> 00:02:09,780
+La mayoría de los clientes llegan a mí y
+
+68
+00:02:09,780 --> 00:02:10,440
+me dicen:
+
+69
+00:02:10,800 --> 00:02:13,650
+"Sé que el precio es no sé, $1.000", a lo
+
+70
+00:02:13,650 --> 00:02:16,440
+sumo saben si es CIF o FOB, y en el mejor
+
+71
+00:02:16,440 --> 00:02:18,300
+de los casos tienen una proforma, pero
+
+72
+00:02:18,300 --> 00:02:19,884
+casi siempre está faltando este dato del
+
+73
+00:02:19,884 --> 00:02:22,380
+volumen y no se puede hacer nada sin él.
+
+74
+00:02:22,620 --> 00:02:24,030
+Con el tema del packing list van a
+
+75
+00:02:24,030 --> 00:02:26,790
+encontrar muchísima variedad de documentos
+
+76
+00:02:26,790 --> 00:02:28,050
+dependiendo del proveedor.
+
+77
+00:02:28,264 --> 00:02:29,822
+Algunos le van a pasar incluso la
+
+78
+00:02:29,822 --> 00:02:32,220
+información por escrito en texto, otros se
+
+79
+00:02:32,220 --> 00:02:34,230
+lo van a pasar en un Excel así nomás, y
+
+80
+00:02:34,230 --> 00:02:36,420
+otros les pasan PDFs supercompletos.
+
+81
+00:02:36,870 --> 00:02:38,700
+Así que acá prepárense para estar
+
+82
+00:02:39,030 --> 00:02:40,980
+repreguntando y repreguntando, pidiendo
+
+83
+00:02:40,980 --> 00:02:41,970
+más datos, ¿okay?
+
+84
+00:02:42,330 --> 00:02:43,890
+Al igual que con la proforma, lo primero
+
+85
+00:02:43,890 --> 00:02:45,540
+que vamos a ver es información de nuestro
+
+86
+00:02:45,540 --> 00:02:47,550
+proveedor y le vamos a tener que pasar
+
+87
+00:02:47,550 --> 00:02:49,560
+nuestra información —esto ya pensando en
+
+88
+00:02:49,560 --> 00:02:52,650
+el packing list final, ¿no?— y el dato por
+
+89
+00:02:52,650 --> 00:02:54,660
+ahí más relevante es el número del packing
+
+90
+00:02:54,679 --> 00:02:56,970
+list, por lo mismo que necesitamos el
+
+91
+00:02:56,970 --> 00:02:57,840
+número de proforma:
+
+92
+00:02:57,840 --> 00:03:00,023
+para ir haciendo un seguimiento y, si le
+
+93
+00:03:00,023 --> 00:03:01,770
+vamos pidiendo modificaciones, saber con
+
+94
+00:03:01,770 --> 00:03:03,660
+qué versión del documento estamos
+
+95
+00:03:03,660 --> 00:03:04,320
+trabajando.
+
+96
+00:03:04,770 --> 00:03:06,330
+Lo siguiente y más importante, que es la
+
+97
+00:03:06,330 --> 00:03:08,430
+estructura principal del packing list, es
+
+98
+00:03:08,490 --> 00:03:09,960
+el detalle de nuestra mercadería.
+
+99
+00:03:10,050 --> 00:03:11,970
+Acá en este ejemplo vamos a tener el
+
+100
+00:03:11,970 --> 00:03:14,725
+producto, su código de producto (que tiene
+
+101
+00:03:14,725 --> 00:03:16,470
+que estar siempre como hablamos) y ahora
+
+102
+00:03:16,470 --> 00:03:18,420
+vamos a encontrar información adicional
+
+103
+00:03:18,420 --> 00:03:19,560
+que probablemente no estaba en la
+
+104
+00:03:19,740 --> 00:03:22,650
+proforma, como por ejemplo el peso
+
+105
+00:03:23,580 --> 00:03:24,570
+del bulto.
+
+106
+00:03:24,630 --> 00:03:26,460
+que Si está en el packing list, ya estamos
+
+107
+00:03:26,460 --> 00:03:28,500
+hablando del bulto embalado, de cómo
+
+108
+00:03:28,500 --> 00:03:29,100
+viaja.
+
+109
+00:03:29,290 --> 00:03:31,080
+Acá no estamos hablando del peso del
+
+110
+00:03:31,080 --> 00:03:33,690
+producto fuera de su embalaje, sino que
+
+111
+00:03:33,690 --> 00:03:36,390
+estamos hablando del peso del producto con
+
+112
+00:03:36,390 --> 00:03:37,258
+su embalaje:
+
+113
+00:03:37,260 --> 00:03:40,073
+con su telgopor, su burbujita, si viene en
+
+114
+00:03:40,073 --> 00:03:42,547
+una caja de madera, incluyendo el peso de
+
+115
+00:03:42,547 --> 00:03:43,830
+la caja de madera completo.
+
+116
+00:03:43,830 --> 00:03:45,780
+completo entonces vamos a ver que tenemos
+
+117
+00:03:45,780 --> 00:03:48,600
+el peso final doscientos cincuenta kilos
+
+118
+00:03:49,440 --> 00:03:52,740
+y el peso neto Así que fíjense que entre
+
+119
+00:03:52,740 --> 00:03:55,260
+el peso real de la máquina y el peso de la
+
+120
+00:03:55,260 --> 00:03:57,000
+máquina embalada tenemos una diferencia
+
+121
+00:03:57,030 --> 00:03:58,200
+muy importante.
+
+122
+00:03:58,470 --> 00:04:00,540
+Por eso, si nosotros nos basáramos solo en
+
+123
+00:04:00,540 --> 00:04:02,760
+el peso de la máquina, estaríamos
+
+124
+00:04:02,760 --> 00:04:05,400
+cotizando muy mal la logística, sobre todo
+
+125
+00:04:05,400 --> 00:04:06,930
+lo que es vía aérea, por ejemplo.
+
+126
+00:04:07,530 --> 00:04:09,150
+Y acá viene el dato de oro con el que
+
+127
+00:04:09,150 --> 00:04:11,340
+venimos hablando en toda esta clase:
+
+128
+00:04:11,640 --> 00:04:13,920
+el volumen en metros cúbicos.
+
+129
+00:04:14,100 --> 00:04:16,650
+Acá está abreviado como M3, puede estar
+
+130
+00:04:16,650 --> 00:04:18,060
+como CBM, recuérdenlo.
+
+131
+00:04:18,360 --> 00:04:21,090
+Y nos está diciendo que esta máquina
+
+132
+00:04:21,150 --> 00:04:22,140
+embalada
+
+133
+00:04:23,490 --> 00:04:25,440
+ocupa un total de 2 m³.
+
+134
+00:04:25,470 --> 00:04:28,800
+Con este dato de 2 m³, nosotros nos damos
+
+135
+00:04:28,830 --> 00:04:32,189
+vuelta y ya podemos cotizar el flete
+
+136
+00:04:32,189 --> 00:04:35,038
+internacional y también podemos cotizar
+
+137
+00:04:35,045 --> 00:04:37,560
+los gastos logísticos en destino, por
+
+138
+00:04:37,560 --> 00:04:39,120
+ejemplo en el puerto de Buenos Aires.
+
+139
+00:04:39,360 --> 00:04:41,189
+Obviamente lo más prolijo es directamente
+
+140
+00:04:41,190 --> 00:04:43,440
+reenviarle a nuestro agente de carga el
+
+141
+00:04:43,470 --> 00:04:45,510
+packing list y que ya con eso nos coticen
+
+142
+00:04:45,510 --> 00:04:45,810
+todo.
+
+143
+00:04:45,840 --> 00:04:47,518
+Más adelante vamos a ver qué es
+
+144
+00:04:47,518 --> 00:04:49,680
+exactamente el agente de carga, qué hace y
+
+145
+00:04:49,680 --> 00:04:51,210
+qué rol cumple para nosotros.
+
+146
+00:04:51,480 --> 00:04:53,310
+Adicionalmente, ha ido datos que no
+
+147
+00:04:53,313 --> 00:04:55,200
+figuran en este pack liz pero que nos
+
+148
+00:04:55,200 --> 00:04:57,240
+podrían ayudar muchísimo y se los podemos
+
+149
+00:04:57,240 --> 00:04:59,460
+pedir al proveedor si los puede sumar que
+
+150
+00:04:59,460 --> 00:05:03,252
+son el tamaño que tiene el bulto porque si
+
+151
+00:05:03,288 --> 00:05:04,680
+no dice que eso dos metros cúbicos
+
+152
+00:05:04,680 --> 00:05:06,180
+obviamente puede estar instruido de valle
+
+153
+00:05:06,186 --> 00:05:09,207
+manera por ejemplo no es no son dos metros
+
+154
+00:05:09,207 --> 00:05:11,460
+no pero suponen de que la caja mida un
+
+155
+00:05:11,460 --> 00:05:14,520
+metro bordo por unos cincuenta y seis
+
+156
+00:05:14,520 --> 00:05:16,830
+formación estaría buena no sumaria
+
+157
+00:05:16,830 --> 00:05:18,750
+bastante que este el tamaño y la caja no
+
+158
+00:05:18,754 --> 00:05:21,090
+se haga que por ejemplo no día que mide un
+
+159
+00:05:21,090 --> 00:05:23,850
+metro bordo metro por uno qué sé yo
+
+160
+00:05:24,360 --> 00:05:26,100
+adicionalmente hay dos datos clave que acá
+
+161
+00:05:26,100 --> 00:05:27,750
+no están pero que nos podrían aportar
+
+162
+00:05:27,750 --> 00:05:28,200
+mucho:
+
+163
+00:05:28,470 --> 00:05:31,590
+que uno es las medidas que tiene en metros
+
+164
+00:05:31,830 --> 00:05:34,230
+(o bueno, en el centímetros) el bulto de
+
+165
+00:05:34,230 --> 00:05:35,310
+la caja embalada.
+
+166
+00:05:36,240 --> 00:05:37,980
+Por ejemplo, no sé, en este caso podría
+
+167
+00:05:37,980 --> 00:05:42,810
+decir acá qué sé yo, que es de 2 m x 2 m x
+
+168
+00:05:42,810 --> 00:05:43,920
+1 m.
+
+169
+00:05:44,310 --> 00:05:46,320
+Este dato para lo que es vía marítima no
+
+170
+00:05:46,320 --> 00:05:49,260
+es tan relevante porque vamos a estar
+
+171
+00:05:49,260 --> 00:05:50,955
+trabajando con el volumen de metros
+
+172
+00:05:50,955 --> 00:05:53,250
+cúbicos finales, pero sí está bueno
+
+173
+00:05:53,250 --> 00:05:55,920
+saberlo por las dudas de que aparezca
+
+174
+00:05:55,920 --> 00:05:58,949
+alguna caja muy sobredimensionada y que
+
+175
+00:05:58,949 --> 00:06:00,840
+eso nos aplique alguna la restricción.
+
+176
+00:06:01,140 --> 00:06:02,610
+Entonces siempre está bueno tenerlo ese
+
+177
+00:06:02,610 --> 00:06:04,340
+dato para pasarlo y no encontrarnos con
+
+178
+00:06:04,408 --> 00:06:06,420
+ningún costo extra o con ninguna sorpresa.
+
+179
+00:06:06,810 --> 00:06:09,240
+También tener la información del tamaño de
+
+180
+00:06:09,240 --> 00:06:12,180
+cada caja master o cada bulto nos va a
+
+181
+00:06:12,180 --> 00:06:13,980
+ayudar para nuestra logística propia,
+
+182
+00:06:14,040 --> 00:06:15,720
+porque después tenemos que ver cómo vamos
+
+183
+00:06:15,720 --> 00:06:17,130
+a descargar esa mercadería.
+
+184
+00:06:17,520 --> 00:06:20,070
+y Si nosotros estamos comprando, no sé,
+
+185
+00:06:21,000 --> 00:06:23,160
+5.000 unidades de producto que vienen
+
+186
+00:06:23,160 --> 00:06:26,060
+divididas en 10 tipos de caja diferente, y
+
+187
+00:06:26,060 --> 00:06:28,110
+cada caja algunas tienen 100 unidades,
+
+188
+00:06:28,110 --> 00:06:30,750
+otras tienen 200, otras 100, nos vamos a
+
+189
+00:06:30,750 --> 00:06:32,790
+volver locos para contar esa mercadería,
+
+190
+00:06:33,060 --> 00:06:35,400
+para controlarla, y después también para
+
+191
+00:06:35,460 --> 00:06:36,780
+almacenarla nosotros.
+
+192
+00:06:37,350 --> 00:06:39,240
+Sobre todo si nos encontramos con la
+
+193
+00:06:39,300 --> 00:06:40,950
+información de cómo viene distribuido
+
+194
+00:06:40,950 --> 00:06:43,168
+cuando abrimos el contenedor, o si estamos
+
+195
+00:06:43,168 --> 00:06:44,400
+trabajando con una carga chica, es lo
+
+196
+00:06:44,400 --> 00:06:45,780
+mismo cuando abrimos un pallet:
+
+197
+00:06:46,170 --> 00:06:49,140
+si tenemos 50.000 cajas diferentes, es un
+
+198
+00:06:49,410 --> 00:06:50,130
+problema.
+
+199
+00:06:51,030 --> 00:06:52,650
+Entonces esa información, siempre
+
+200
+00:06:52,650 --> 00:06:54,644
+idealmente que ya esté detallada acá en el
+
+201
+00:06:54,644 --> 00:06:56,130
+packing list, y si no está, se la pedimos
+
+202
+00:06:56,130 --> 00:06:56,670
+al proveedor.
+
+203
+00:06:57,450 --> 00:06:59,460
+Y también nos aportaría mucho si, por
+
+204
+00:06:59,460 --> 00:07:01,920
+ejemplo, acá en las notas del packing list
+
+205
+00:07:02,160 --> 00:07:04,410
+nos indica qué tipo de embalaje tiene.
+
+206
+00:07:04,410 --> 00:07:06,420
+el producto En este caso que es solo una
+
+207
+00:07:06,420 --> 00:07:08,700
+máquina, probablemente venga en una caja
+
+208
+00:07:08,700 --> 00:07:09,210
+de madera.
+
+209
+00:07:09,900 --> 00:07:12,210
+Ese dato es importantísimo porque si viene
+
+210
+00:07:12,210 --> 00:07:13,410
+con madera hay que hacer algunas
+
+211
+00:07:13,410 --> 00:07:16,140
+declaraciones acá en lo que es SENASA, en
+
+212
+00:07:16,140 --> 00:07:18,270
+el puerto, de en la aduana de Argentina;
+
+213
+00:07:19,178 --> 00:07:21,600
+e incluso, depending el tipo de madera,
+
+214
+00:07:21,600 --> 00:07:23,220
+puede ser que haya que pedir un
+
+215
+00:07:23,220 --> 00:07:25,740
+certificado de fumigación o algún
+
+216
+00:07:25,740 --> 00:07:26,640
+documento extra.
+
+217
+00:07:26,850 --> 00:07:28,320
+Así que eso es muy importante que esté
+
+218
+00:07:28,320 --> 00:07:29,130
+aclarado también.
+
+219
+00:07:29,820 --> 00:07:31,860
+Hoy en día, si están en una etapa muy
+
+220
+00:07:31,860 --> 00:07:33,735
+previa en la que están viendo si el
+
+221
+00:07:33,735 --> 00:07:35,190
+producto es viable o no y quieren hacer
+
+222
+00:07:35,190 --> 00:07:37,980
+algún costeo muy a modo borrador, y su
+
+223
+00:07:37,980 --> 00:07:40,230
+proveedor está medio reacio a pasarles en
+
+224
+00:07:40,230 --> 00:07:43,230
+detalle la información del volumen —porque
+
+225
+00:07:43,230 --> 00:07:47,160
+puede pasar que tengan 50.000 cajitas de
+
+226
+00:07:47,160 --> 00:07:49,230
+diferentes tamaños y uno le está pidiendo
+
+227
+00:07:49,230 --> 00:07:51,608
+una cotización de 100 productos
+
+228
+00:07:51,608 --> 00:07:53,760
+diferentes, y claro, se tiene que poner a
+
+229
+00:07:53,760 --> 00:07:57,030
+calcular un montón de números, y muchas
+
+230
+00:07:57,030 --> 00:07:59,610
+veces, sobre todo por ahí chinos de tamaño
+
+231
+00:07:59,610 --> 00:08:02,148
+medio chico, no tienen tan a mano la
+
+232
+00:08:02,148 --> 00:08:04,410
+información de cada cajita o incluso van a
+
+233
+00:08:04,410 --> 00:08:06,750
+ir al depósito y van a calcular a mano;
+
+234
+00:08:07,440 --> 00:08:08,827
+entonces, hasta que no vean que ustedes
+
+235
+00:08:08,827 --> 00:08:10,560
+están comprometidos o que es una operación
+
+236
+00:08:10,560 --> 00:08:12,870
+grande, van a estar dándoles vuelta y no
+
+237
+00:08:12,870 --> 00:08:14,130
+les van a querer pasar ese dato—
+
+238
+00:08:15,240 --> 00:08:17,430
+lo que yo recomiendo en estos casos, más
+
+239
+00:08:17,430 --> 00:08:19,980
+allá de ya levantar una mini bandera roja
+
+240
+00:08:19,984 --> 00:08:21,690
+de que el proveedor es medio desprolijo,
+
+241
+00:08:22,560 --> 00:08:25,050
+es que agarren la proforma, se la pasen a
+
+242
+00:08:25,050 --> 00:08:27,930
+cualquier IA (Gemini o ChatGPT), le
+
+243
+00:08:27,930 --> 00:08:30,390
+expliquen lo que necesitan, y por ahí la
+
+244
+00:08:30,390 --> 00:08:32,310
+misma IA, buscando los códigos de los
+
+245
+00:08:32,310 --> 00:08:34,320
+productos en Google o buscando otros
+
+246
+00:08:34,320 --> 00:08:37,410
+productos similares, les puede tirar una
+
+247
+00:08:37,420 --> 00:08:39,870
+estimación de qué volumen tiene.
+
+248
+00:08:40,500 --> 00:08:41,790
+Eso es bastante recomendable.
+
+249
+00:08:41,910 --> 00:08:43,860
+Además, si están trabajando cargas chicas
+
+250
+00:08:44,040 --> 00:08:46,110
+por vía marítima, por ejemplo, es muy
+
+251
+00:08:46,110 --> 00:08:47,944
+probable que la logística se termine
+
+252
+00:08:47,944 --> 00:08:50,819
+cotizando en franjas de, no sé, 1 a 3 m³,
+
+253
+00:08:50,819 --> 00:08:54,090
+1 a 5 m³, 5 a 10 m³.
+
+254
+00:08:54,840 --> 00:08:57,150
+Entonces, si ustedes hacen muy a ojo con
+
+255
+00:08:57,150 --> 00:09:01,800
+la IA el volumen y les da, no sé, 7 m³, no
+
+256
+00:09:01,800 --> 00:09:03,420
+pasa nada si después es un poco más o un
+
+257
+00:09:03,420 --> 00:09:04,862
+poco menos, porque van a entrar en una
+
+258
+00:09:04,862 --> 00:09:07,320
+franja de cotización de logística de 5 a
+
+259
+00:09:07,320 --> 00:09:08,880
+10 m³, ¿se entiende?
+
+260
+00:09:08,940 --> 00:09:10,650
+Obviamente, en cuanto tengan más o menos
+
+261
+00:09:10,650 --> 00:09:12,210
+confirmado que quieren trabajar con ese
+
+262
+00:09:12,210 --> 00:09:13,710
+proveedor, se tienen que poner firmes y
+
+263
+00:09:13,710 --> 00:09:14,310
+decirles:
+
+264
+00:09:14,310 --> 00:09:16,260
+"Pasame los metros cúbicos y el packing
+
+265
+00:09:16,260 --> 00:09:17,580
+list perfecto".
+
+266
+00:09:17,580 --> 00:09:20,130
+Tanto para lo que es vía aérea (Courier
+
+267
+00:09:20,144 --> 00:09:22,920
+como avión con despacho formal), sí o sí
+
+268
+00:09:22,920 --> 00:09:25,140
+necesitan milimétricamente calculado el
+
+269
+00:09:25,140 --> 00:09:27,180
+peso y el tamaño del bulto, porque si les
+
+270
+00:09:27,182 --> 00:09:29,395
+pasaron 20 kilos de diferencia, pueden
+
+271
+00:09:29,395 --> 00:09:31,740
+estar pagando una fortuna más de envío.
+
+272
+00:09:31,740 --> 00:09:33,630
+Recuerden que la vía aérea es muy cara por
+
+273
+00:09:33,630 --> 00:09:34,020
+kilo.

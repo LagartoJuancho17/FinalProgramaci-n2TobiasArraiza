@@ -58,7 +58,6 @@ p,
 a {
     color: var(--color-white);
     text-decoration: none;
-    text-transform: uppercase;
     font-size: 0.8rem;
     font-weight: 550;
     line-height: 1;
@@ -68,10 +67,6 @@ a {
 nav,
 footer {
     font-family: 'Space Grotesk', sans-serif;
-}
-
-footer{
-    bottom: 0;
 }
 
 .carousel-images,
@@ -122,26 +117,11 @@ footer{
 }
 
 .slider-controls{
-    position: absolute;
-    top: 50%;
-    left: 0;
-    width: 100%;
     transform: translateY(-50%);
-    padding: 2rem;
-    display: flex;
-    justify-content: space-between;
-    z-index: 10;
 }
 
 .control-btn{
-    padding: 1.25rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: transparent;
     border: 0.075rem dashed rgba(255, 255, 255, 0.75);
-    border-radius: 0.5rem;
-    cursor: pointer;
     transition: all 200ms ease-in-out;
 }
 
@@ -150,8 +130,6 @@ footer{
 }
 
 .control-btn svg{
-    width: 1.5rem;
-    height: 1.5rem;
     stroke: var(--color-dark);
     transition: fill 200ms ease-in-out, stroke 200ms ease-in-out;
 }
@@ -195,24 +173,13 @@ footer{
 }
 
 .mini-timeline-cards h1{
-    font-size: clamp(2rem, 10vw, 5rem);
+    font-size: clamp(2rem, 10vw, 5rem); 
     letter-spacing: -0.1rem;
     line-height: 0.9;
 }
 
-.mini-timeline-cards section{
-    position: relative;
-    width: 100%;
-    height: 100svh;
-    padding: 1rem;
-    align-content: center;
-    overflow: hidden;
-}
-
 .mini-timeline-cards section h1{
-    width: 50%;
     margin: 0 auto;
-    text-align: center;
     color: var(--color-dark);
 }
 
@@ -225,25 +192,10 @@ footer{
     background-color: (var(--color-grey));
 }
 
-.mini-timeline-cards .spotlight-images{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-}
-
 .mini-timeline-cards .spotlight-img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
     width: clamp(20rem, 25vw, 40rem);
-    aspect-ratio: 7/5;
-    border-radius: 0.5rem;
     transform: translate(-50%,-50%);
     will-change: filter, opacity, transform;
-    overflow: hidden;
 }
 
 @media (max-width: 1000px) {
@@ -257,85 +209,35 @@ footer{
    HORIZONTAL GALLERY SECTION
    ========================================== */
 .horizontal-gallery {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
     background-color: var(--color-grey);
 }
 
-.gallery-wrapper {
-    display: flex;
-    flex-wrap: nowrap;
-    width: max-content;
-    height: 100%;
-    will-change: transform;
-}
-
-.gallery-slide {
-    position: relative;
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 4rem;
-    flex-shrink: 0;
-}
-
-.slide-img-container {
-    position: relative;
-    width: 90%;
-    height: 80%;
-    border-radius: 0.3rem;
-    overflow: hidden;
-    cursor: pointer;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
-}
-
-.slide-img-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    will-change: transform;
-}
-
 .slide-text {
-    position: absolute;
-    bottom: 2rem;
-    left: 2rem;
-    max-width: 400px;
     background: (var(--color-white));
     backdrop-filter: blur(12px);
-    padding: 1.5rem;
-    pointer-events: none;
-    opacity: 0;
     transform: translateY(15px);
 }
 
 .slide-text h3 {
     font-family: "Barlow", sans-serif;
     color: var(--color-white);
-    font-size: 1.75rem;
-    text-transform: uppercase;
-    margin-bottom: 0.5rem;
 }
 
 .slide-text p {
     font-family: 'Barlow', sans-serif;
     color: var(--color-grey);
-    font-size: 0.9rem;
     line-height: 1.4;
     text-transform: none;
 }
 
 @media (max-width: 768px) {
     .gallery-slide {
-        padding: 2rem;
+        padding: 0;
     }
     .slide-img-container {
-        width: 90%;
-        height: 60%;
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
     }
     .slide-text {
         bottom: 1rem;
@@ -349,34 +251,11 @@ footer{
    SERVICES SECTION (FOCUS LIST & HOVER PREVIEW)
    ========================================== */
 .services-section {
-    position: relative;
-    width: 100%;
-    min-height: 100vh;
-    background-color: var(--color-grey); /* light grey background */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 6rem 2rem;
-    overflow: hidden;
-    z-index: 1;
-}
 
-.services-list {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1.25rem;
-    z-index: 2;
-    width: 100%;
-    max-width: 900px;
+    background-color: var(--color-grey); /* light grey background */
 }
 
 .service-item {
-    position: relative;
-    cursor: pointer;
-    text-align: center;
-    padding: 0.5rem 0;
     transition: opacity 0.4s ease, filter 0.4s ease;
 }
 
@@ -697,29 +576,7 @@ footer{
 
 /* ════════════════ LOADER AETHER ════════════════ */
 .loader {
-    z-index: 9999;
     background-color: var(--color-grey);
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    gap: 4rem;
-    width: 100%;
-    height: 100%;
-    padding: 2rem;
-    position: fixed;
-    inset: 0;
-    transform: translateY(0%);
-}
-
-/* Fila superior: Drillot · logo central · Studio */
-.flex-loader {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    max-width: 1200px;
-    padding: 0 2rem;
 }
 
 .text-loader-left,
@@ -731,9 +588,6 @@ footer{
     font-size: 0.75rem;
     font-weight: 550;
     letter-spacing: 0.15em;
-}
-.text-loader-right {
-    text-align: right;
 }
 
 .logo_loader {

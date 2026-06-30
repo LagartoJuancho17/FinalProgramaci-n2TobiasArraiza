@@ -1,0 +1,1395 @@
+1
+00:00:00,120 --> 00:00:02,610
+Los incoterms son un conjunto de reglas
+
+2
+00:00:02,610 --> 00:00:05,730
+internacionales establecidas que nos van a
+
+3
+00:00:05,790 --> 00:00:08,610
+indicar hasta dónde es responsable nuestro
+
+4
+00:00:08,610 --> 00:00:11,160
+proveedor por el precio que nos está
+
+5
+00:00:11,160 --> 00:00:11,850
+cotizando.
+
+6
+00:00:12,780 --> 00:00:15,150
+Ya vimos un poquito en la proforma que,
+
+7
+00:00:15,150 --> 00:00:17,880
+según con qué condición viene la carga, el
+
+8
+00:00:17,884 --> 00:00:19,860
+proveedor se puede estar ocupando solo
+
+9
+00:00:19,860 --> 00:00:22,020
+hasta la puerta de su fábrica, solo hasta
+
+10
+00:00:22,020 --> 00:00:24,570
+el puerto de origen o hasta destino.
+
+11
+00:00:24,630 --> 00:00:26,730
+Si bien hay más de 10 condiciones,
+
+12
+00:00:27,120 --> 00:00:28,589
+nosotros nos vamos a centrar en las tres
+
+13
+00:00:28,589 --> 00:00:31,890
+que más se usan en el 99% de los casos y
+
+14
+00:00:31,890 --> 00:00:34,200
+que en la práctica nos van a condicionar
+
+15
+00:00:34,380 --> 00:00:36,300
+la operación si va para un lado o va para
+
+16
+00:00:36,300 --> 00:00:36,690
+el otro.
+
+17
+00:00:36,780 --> 00:00:37,680
+Estas tres son:
+
+18
+00:00:37,710 --> 00:00:43,625
+Ex Works (EXW), FOB (Free on
+
+19
+00:00:43,625 --> 00:00:46,533
+Board) y CIF que quiere decir que es el
+
+20
+00:00:46,533 --> 00:00:49,020
+costo de la mercadería más el seguro más
+
+21
+00:00:49,020 --> 00:00:50,340
+el flete internacional.
+
+22
+00:00:50,520 --> 00:00:53,250
+Y las vamos a describir desde la más
+
+23
+00:00:53,250 --> 00:00:55,410
+básica, en la que el proveedor no se ocupa
+
+24
+00:00:55,410 --> 00:00:57,810
+de nada (que es Ex Works), hasta la más
+
+25
+00:00:57,810 --> 00:00:59,640
+compleja en la que se ocupa de "todo".
+
+26
+00:00:59,820 --> 00:01:01,620
+De "todo" en teoría, porque ahora al final
+
+27
+00:01:01,620 --> 00:01:04,380
+de esta clase les voy a decir cuál es la
+
+28
+00:01:04,380 --> 00:01:07,500
+ideal para laburar y por qué, hay muchos
+
+29
+00:01:07,500 --> 00:01:09,540
+gastos que no se tienen en cuenta en sí y
+
+30
+00:01:09,540 --> 00:01:11,758
+también le voy a decir con que condiciones
+
+31
+00:01:11,791 --> 00:01:14,190
+no tienen que trabajar ya que hay muchos
+
+32
+00:01:14,190 --> 00:01:17,160
+gastos en Argentina que nunca se tienen en
+
+33
+00:01:17,160 --> 00:01:19,230
+cuenta ni con el proveedor más
+
+34
+00:01:19,230 --> 00:01:21,540
+experimentado, La primera es Ex Works.
+
+35
+00:01:21,690 --> 00:01:23,400
+Cuando trabajamos con este tipo de
+
+36
+00:01:23,400 --> 00:01:24,870
+condición, quiere decir que nuestro
+
+37
+00:01:24,870 --> 00:01:27,360
+proveedor no se quiere ocupar de nada de
+
+38
+00:01:27,360 --> 00:01:29,100
+lo que tenga que ver con logística, ni
+
+39
+00:01:29,100 --> 00:01:30,840
+siquiera de un flete interno en por
+
+40
+00:01:30,840 --> 00:01:31,560
+ejemplo China.
+
+41
+00:01:31,560 --> 00:01:33,180
+El proveedor va a tener lista la
+
+42
+00:01:33,180 --> 00:01:35,280
+mercadería en la puerta de su fábrica y a
+
+43
+00:01:35,280 --> 00:01:37,200
+partir de ahí nos ocupamos nosotros.
+
+44
+00:01:37,350 --> 00:01:39,030
+No es ningún problema trabajar con esta
+
+45
+00:01:39,090 --> 00:01:40,950
+metodología, ya que todo lo que tenga que
+
+46
+00:01:40,950 --> 00:01:43,800
+ver con logística en origen (por ejemplo,
+
+47
+00:01:43,800 --> 00:01:46,200
+un flete de la fábrica hasta el puerto)
+
+48
+00:01:46,710 --> 00:01:49,650
+nosotros lo vamos a gestionar y cotizar a
+
+49
+00:01:49,650 --> 00:01:51,870
+través de nuestro agente de carga que
+
+50
+00:01:51,870 --> 00:01:53,250
+tenga oficina en Argentina.
+
+51
+00:01:53,430 --> 00:01:55,470
+Entonces no se preocupen, que no es que
+
+52
+00:01:55,470 --> 00:01:56,940
+porque una carga sea Ex Works se van a
+
+53
+00:01:56,940 --> 00:01:59,460
+tener que poner a pegarle un llamado a un
+
+54
+00:01:59,640 --> 00:02:01,110
+fletero chino, no se preocupen.
+
+55
+00:02:01,830 --> 00:02:04,860
+Sí es verdad que lo que es logística de
+
+56
+00:02:04,860 --> 00:02:07,140
+origen, en líneas generales, debería
+
+57
+00:02:07,140 --> 00:02:08,940
+conseguir mejores tarifas nuestro
+
+58
+00:02:08,940 --> 00:02:11,088
+proveedor porque, si nosotros contratamos
+
+59
+00:02:11,088 --> 00:02:13,170
+por ejemplo un flete chino en origen,
+
+60
+00:02:13,380 --> 00:02:15,540
+seguramente nuestro agente de carga lo
+
+61
+00:02:15,540 --> 00:02:17,731
+haga a través de una empresa que se dedica
+
+62
+00:02:17,731 --> 00:02:19,170
+a tercerizar ese servicio.
+
+63
+00:02:19,410 --> 00:02:21,480
+Entonces, siempre que ustedes puedan, por
+
+64
+00:02:21,480 --> 00:02:23,340
+más que el proveedor les haya pasado Ex
+
+65
+00:02:23,340 --> 00:02:24,219
+Works, pregúntenle:
+
+66
+00:02:24,219 --> 00:02:27,240
+"Che, ¿me podés pasar FOB a ver si trabaja
+
+67
+00:02:27,240 --> 00:02:27,900
+de esa manera?".
+
+68
+00:02:27,990 --> 00:02:29,760
+Yo creo que en casi todos los casos sí,
+
+69
+00:02:30,240 --> 00:02:32,010
+salvo que sean cargas con dimensiones muy
+
+70
+00:02:32,010 --> 00:02:32,700
+particulares.
+
+71
+00:02:32,700 --> 00:02:34,140
+Y ya cuando les pasen el precio FOB,
+
+72
+00:02:34,140 --> 00:02:36,000
+probablemente tengan la mejor tarifa
+
+73
+00:02:36,000 --> 00:02:38,850
+posible en lo que son gastos internos en
+
+74
+00:02:38,850 --> 00:02:39,270
+China.
+
+75
+00:02:39,630 --> 00:02:41,970
+La segunda condición es la más utilizada
+
+76
+00:02:41,970 --> 00:02:45,315
+en el mundo y la más conocida, que es FOB
+
+77
+00:02:45,315 --> 00:02:46,260
+(Free on Board).
+
+78
+00:02:46,380 --> 00:02:48,060
+Esta metodología de trabajo quiere decir
+
+79
+00:02:48,060 --> 00:02:50,159
+que nuestro proveedor se ocupa de todos
+
+80
+00:02:50,159 --> 00:02:51,631
+los gastos hasta que la mercadería esté
+
+81
+00:02:51,631 --> 00:02:52,260
+embarcada.
+
+82
+00:02:52,710 --> 00:02:53,130
+en Es decir:
+
+83
+00:02:53,131 --> 00:02:56,280
+la logística interna en origen, los gastos
+
+84
+00:02:56,290 --> 00:02:58,350
+de exportación, de subir la mercadería al
+
+85
+00:02:58,350 --> 00:02:58,950
+barco...
+
+86
+00:02:59,130 --> 00:03:01,560
+de casi todo lo que son trámites de
+
+87
+00:03:01,560 --> 00:03:02,520
+embarcar se ocupa.
+
+88
+00:03:02,550 --> 00:03:04,650
+¿Y por qué recomiendo siempre trabajar
+
+89
+00:03:04,710 --> 00:03:05,910
+esta metodología?
+
+90
+00:03:05,910 --> 00:03:07,380
+Porque hasta acá, todos los gastos que
+
+91
+00:03:07,380 --> 00:03:10,320
+vamos a tener, siempre nuestro proveedor
+
+92
+00:03:10,320 --> 00:03:12,060
+va a conseguir el mejor número posible.
+
+93
+00:03:12,360 --> 00:03:14,340
+Si nosotros lo gestionamos (que se puede)
+
+94
+00:03:14,370 --> 00:03:16,166
+a través de un tercero, por ejemplo
+
+95
+00:03:16,176 --> 00:03:18,058
+nuestro agente de carga, probablemente
+
+96
+00:03:18,060 --> 00:03:19,950
+consigamos tarifas un poquito más altas.
+
+97
+00:03:19,950 --> 00:03:22,350
+Entonces, si nuestro proveedor se puede
+
+98
+00:03:22,350 --> 00:03:25,470
+ocupar de embarcar la carga, mejor.
+
+99
+00:03:25,530 --> 00:03:28,368
+Es la condición más eficiente de todas.
+
+100
+00:03:28,530 --> 00:03:30,660
+Y la tercera y última metodología que
+
+101
+00:03:30,660 --> 00:03:33,524
+vamos a analizar nosotros es CIF.
+
+102
+00:03:33,524 --> 00:03:37,620
+Acá pasamos del FOB a ya incluir lo que es
+
+103
+00:03:37,620 --> 00:03:39,870
+la logística internacional; por ejemplo,
+
+104
+00:03:39,930 --> 00:03:42,780
+en vía marítima, el flete marítimo hasta
+
+105
+00:03:42,780 --> 00:03:44,250
+el puerto de destino.
+
+106
+00:03:44,790 --> 00:03:46,320
+Es decir, por ejemplo, si estamos acá en
+
+107
+00:03:46,320 --> 00:03:49,080
+Buenos Aires en Argentina, debería incluir
+
+108
+00:03:49,230 --> 00:03:51,450
+el flete hasta el puerto de Buenos Aires,
+
+109
+00:03:51,510 --> 00:03:53,550
+y también debería incluir el seguro de la
+
+110
+00:03:53,550 --> 00:03:55,620
+mercadería por el viaje que tenemos desde
+
+111
+00:03:55,620 --> 00:03:57,420
+la fábrica de nuestro proveedor hasta el
+
+112
+00:03:57,420 --> 00:03:58,800
+puerto de destino.
+
+113
+00:03:58,860 --> 00:04:00,480
+¡Ahora, ojo con la condición CIF!
+
+114
+00:04:00,483 --> 00:04:02,760
+Porque ya empezamos a definir algunas
+
+115
+00:04:02,760 --> 00:04:04,800
+cuestiones que nos pueden traer problemas
+
+116
+00:04:04,800 --> 00:04:07,170
+con la aduana Argentina si las hacemos
+
+117
+00:04:07,170 --> 00:04:10,500
+mal, y también nos pueden generar
+
+118
+00:04:10,500 --> 00:04:13,260
+complicaciones al momento de tener que
+
+119
+00:04:13,620 --> 00:04:16,380
+nacionalizar la carga (que ya veremos más
+
+120
+00:04:16,380 --> 00:04:18,510
+adelante, pero es un momento muy sensible
+
+121
+00:04:18,510 --> 00:04:22,230
+en el que cada día cuenta y, si no es
+
+122
+00:04:22,230 --> 00:04:24,870
+dinámica la operación, puede ser un
+
+123
+00:04:24,870 --> 00:04:25,920
+problema para nosotros).
+
+124
+00:04:26,160 --> 00:04:27,300
+¿Y a qué me refiero con estas
+
+125
+00:04:27,300 --> 00:04:28,170
+problemáticas?
+
+126
+00:04:28,350 --> 00:04:29,520
+Vamos desde el principio.
+
+127
+00:04:29,640 --> 00:04:31,590
+Cuando el proveedor también se ocupa del
+
+128
+00:04:31,590 --> 00:04:33,780
+flete internacional, ya tiene que
+
+129
+00:04:33,780 --> 00:04:37,380
+encargarse él del BL (que el BL, si bien
+
+130
+00:04:37,380 --> 00:04:38,910
+lo veremos más adelante, es como si fuera
+
+131
+00:04:38,910 --> 00:04:42,360
+la guía de seguimiento de nuestra carga
+
+132
+00:04:42,660 --> 00:04:44,040
+del flete internacional).
+
+133
+00:04:44,820 --> 00:04:46,710
+Y en esa guía ya se tienen que declarar
+
+134
+00:04:46,711 --> 00:04:48,793
+algunas cuestiones como por ejemplo el
+
+135
+00:04:48,793 --> 00:04:50,700
+destinatario (o sea, el importador,
+
+136
+00:04:50,760 --> 00:04:53,280
+ustedes), se tiene que declara la
+
+137
+00:04:53,280 --> 00:04:55,440
+descripción de la mercadería e incluso la
+
+138
+00:04:55,440 --> 00:04:57,150
+posición arancelaria que va a tener la
+
+139
+00:04:57,150 --> 00:04:58,950
+mercadería para ingresar al país.
+
+140
+00:04:59,010 --> 00:05:00,870
+Esa información ya es bastante sensible
+
+141
+00:05:00,870 --> 00:05:02,700
+para cuando queremos nacionalizar nuestra
+
+142
+00:05:02,700 --> 00:05:05,370
+carga; que no quiere decir que si se
+
+143
+00:05:05,370 --> 00:05:07,920
+declara mal no se pueda rectificar, pero
+
+144
+00:05:07,920 --> 00:05:09,839
+nos va a generar gastos adicionales y ya
+
+145
+00:05:09,839 --> 00:05:11,610
+empezamos a tener desprolijidades.
+
+146
+00:05:11,880 --> 00:05:13,710
+Entonces, el primer motivo por el que yo
+
+147
+00:05:13,770 --> 00:05:16,318
+no recomiendo trabajar CIF es porque ya le
+
+148
+00:05:16,318 --> 00:05:18,720
+estamos delegando algunas cuestiones
+
+149
+00:05:18,720 --> 00:05:20,940
+documentales a nuestro proveedor que es
+
+150
+00:05:20,940 --> 00:05:24,210
+mejor gestionarlas nosotros desde acá con
+
+151
+00:05:24,210 --> 00:05:25,380
+nuestro agente de carga y nuestro
+
+152
+00:05:25,380 --> 00:05:25,980
+despachante.
+
+153
+00:05:26,100 --> 00:05:28,230
+Lo segundo es que El valor CIF solo va a
+
+154
+00:05:28,230 --> 00:05:31,200
+incluir el flete internacional neto de
+
+155
+00:05:31,200 --> 00:05:33,360
+cualquier gasto que podamos tener en el
+
+156
+00:05:33,360 --> 00:05:34,710
+puerto de destino.
+
+157
+00:05:35,100 --> 00:05:37,410
+Por ejemplo, en Buenos Aires hay un montón
+
+158
+00:05:37,410 --> 00:05:39,270
+de gastos de desembarque, de
+
+159
+00:05:39,270 --> 00:05:42,120
+documentación, de puerto, (si trabajamos
+
+160
+00:05:42,120 --> 00:05:43,800
+carga chica) de depósito fiscal...
+
+161
+00:05:44,160 --> 00:05:46,350
+Bueno, hay muchos gastos —ya los vamos a
+
+162
+00:05:46,350 --> 00:05:48,120
+ver en el módulo correspondiente— eh que
+
+163
+00:05:48,120 --> 00:05:49,564
+no están contemplados, claramente, en un
+
+164
+00:05:49,564 --> 00:05:50,520
+flete internacional.
+
+165
+00:05:50,640 --> 00:05:53,460
+Entonces muchas veces, cuando nosotros
+
+166
+00:05:53,520 --> 00:05:55,650
+aceptamos esa condición porque nos parece
+
+167
+00:05:55,650 --> 00:05:58,137
+barato, nos estamos perdiendo la mitad de
+
+168
+00:05:58,137 --> 00:05:59,880
+los gastos y si no los tenemos en cuenta
+
+169
+00:05:59,880 --> 00:06:01,530
+nos podemos llevar una sorpresa cuando
+
+170
+00:06:01,530 --> 00:06:04,170
+llega la carga por otro lado Si nosotros
+
+171
+00:06:04,170 --> 00:06:06,690
+ya contratamos el flete de manera local
+
+172
+00:06:07,020 --> 00:06:09,030
+con un agente de carga de Argentina,
+
+173
+00:06:09,180 --> 00:06:11,580
+tenemos cotizados previamente todos estos
+
+174
+00:06:11,580 --> 00:06:13,320
+gastos que hay en Buenos Aires.
+
+175
+00:06:13,320 --> 00:06:15,120
+Pero si del flete internacional se ocupó
+
+176
+00:06:15,120 --> 00:06:17,670
+nuestro proveedor, cuando llegue acá se le
+
+177
+00:06:17,670 --> 00:06:19,890
+va a asignar la carga al agente de carga
+
+178
+00:06:20,190 --> 00:06:23,340
+con el que tenga alianza la naviera que
+
+179
+00:06:23,340 --> 00:06:25,590
+haya elegido nuestro proveedor, y no
+
+180
+00:06:25,590 --> 00:06:27,059
+tenemos manera de saber hasta que llegue
+
+181
+00:06:27,060 --> 00:06:29,127
+la mercadería con quién vamos a terminar
+
+182
+00:06:29,127 --> 00:06:30,930
+trabajando y cuáles van a ser esos costos
+
+183
+00:06:30,930 --> 00:06:31,620
+en Buenos Aires.
+
+184
+00:06:31,620 --> 00:06:33,780
+y lo que pasa mucho no digo que sea una
+
+185
+00:06:33,780 --> 00:06:36,150
+constante pero pasa Y algo que pasa mucho
+
+186
+00:06:36,150 --> 00:06:37,680
+—que no digo que vaya a ser siempre así ni
+
+187
+00:06:37,680 --> 00:06:39,686
+que sea una constante, pero pasa— cuando
+
+188
+00:06:39,686 --> 00:06:41,607
+es muy barato el flete internacional,
+
+189
+00:06:41,614 --> 00:06:44,400
+generalmente es porque después acá lo
+
+190
+00:06:44,400 --> 00:06:46,860
+agarra alguna empresa que cobra algunas
+
+191
+00:06:46,860 --> 00:06:48,540
+tarifas medio excedidas.
+
+192
+00:06:48,690 --> 00:06:50,460
+Entonces, si del flete internacional se
+
+193
+00:06:50,460 --> 00:06:52,950
+ocupa nuestro proveedor, nosotros perdemos
+
+194
+00:06:52,950 --> 00:06:54,930
+previsibilidad de gastos acá en Buenos
+
+195
+00:06:54,930 --> 00:06:57,150
+Aires y también tenemos perdemos
+
+196
+00:06:57,150 --> 00:06:59,340
+previsibilidad con el hecho de no saber
+
+197
+00:06:59,340 --> 00:07:02,040
+con quién vamos a estar trabajando para
+
+198
+00:07:02,040 --> 00:07:02,970
+todo lo que tiene que ver con el
+
+199
+00:07:02,970 --> 00:07:03,690
+desembarque.
+
+200
+00:07:03,900 --> 00:07:06,390
+que eso me da pie para el siguiente punto
+
+201
+00:07:06,660 --> 00:07:08,706
+El último punto es que la asignarse medio
+
+202
+00:07:08,718 --> 00:07:10,710
+aleatoriamente un agente de carga y no
+
+203
+00:07:10,710 --> 00:07:12,330
+sabemos quién es, puede trabajar muy bien
+
+204
+00:07:12,330 --> 00:07:13,800
+pero también puede trabajar muy mal.
+
+205
+00:07:13,830 --> 00:07:17,430
+Además de cobrarnos costos adicionales, no
+
+206
+00:07:17,430 --> 00:07:19,020
+sabemos qué tan dinámico va a ser el
+
+207
+00:07:19,020 --> 00:07:20,250
+trabajo con ellos.
+
+208
+00:07:20,280 --> 00:07:22,110
+Y muchas veces, cosas sencillas como que
+
+209
+00:07:22,110 --> 00:07:24,420
+tarden mucho en contestarnos o que nos
+
+210
+00:07:24,420 --> 00:07:26,280
+pidan demasiada burocracia (completar
+
+211
+00:07:26,280 --> 00:07:28,140
+demasiados papeles) nos pueden hacer
+
+212
+00:07:28,140 --> 00:07:31,050
+demorar en un momento tan sensible como lo
+
+213
+00:07:31,050 --> 00:07:32,490
+que es la nacionalización de la
+
+214
+00:07:32,490 --> 00:07:34,380
+mercadería, donde uno tiene un tiempo
+
+215
+00:07:34,380 --> 00:07:36,960
+limitado para que no les cobren gastos
+
+216
+00:07:37,230 --> 00:07:39,900
+extra de almacenaje en el puerto o en el
+
+217
+00:07:39,900 --> 00:07:40,770
+depósito fiscal.
+
+218
+00:07:40,800 --> 00:07:42,510
+Por ejemplo, a mí me pasó con una carga
+
+219
+00:07:42,510 --> 00:07:44,730
+mía, un contenedor de 40 pies, que por
+
+220
+00:07:44,730 --> 00:07:47,430
+error mi proveedor me lo mandó CIF, y
+
+221
+00:07:47,430 --> 00:07:49,050
+cuando llegó acá me lo asignaron a un
+
+222
+00:07:49,050 --> 00:07:51,990
+agente de carga muy grande internacional,
+
+223
+00:07:52,050 --> 00:07:53,580
+que para tener que comunicarme con ellos
+
+224
+00:07:53,580 --> 00:07:56,550
+tenía que abrir un ticket en una web y
+
+225
+00:07:56,550 --> 00:07:58,620
+esperar entre 24 y 48 horas a que me
+
+226
+00:07:58,620 --> 00:07:59,340
+contesten.
+
+227
+00:07:59,580 --> 00:08:02,550
+Imagínense si aparece algún problemita y a
+
+228
+00:08:02,550 --> 00:08:04,350
+nosotros nos quedan dos días para poder
+
+229
+00:08:04,350 --> 00:08:06,690
+retirar la mercadería, la desesperación de
+
+230
+00:08:06,691 --> 00:08:08,130
+tener que esperar que te contesten un
+
+231
+00:08:08,130 --> 00:08:11,340
+ticket por una web como si estuvieras
+
+232
+00:08:11,460 --> 00:08:13,770
+hablando con una empresa de telefonía
+
+233
+00:08:13,770 --> 00:08:14,400
+gigante.
+
+234
+00:08:14,490 --> 00:08:16,620
+Esas cosas, cuando uno tiene sus primeras
+
+235
+00:08:16,620 --> 00:08:18,570
+operaciones, no se puede dar el lujo de
+
+236
+00:08:18,570 --> 00:08:19,200
+que pasen.
+
+237
+00:08:19,200 --> 00:08:21,180
+Es preferible pagar un poquito más pero
+
+238
+00:08:21,180 --> 00:08:22,710
+tener un agente de carga que uno puede
+
+239
+00:08:22,710 --> 00:08:24,390
+levantar el teléfono y hablar con el
+
+240
+00:08:24,390 --> 00:08:25,855
+gerente de operaciones y decirle:
+
+241
+00:08:25,855 --> 00:08:28,110
+"Che, me pasa esto, ¿cómo lo resolvemos?"
+
+242
+00:08:28,170 --> 00:08:29,760
+Otro ejemplo que les comento de hace muy
+
+243
+00:08:29,760 --> 00:08:30,330
+poquito:
+
+244
+00:08:30,510 --> 00:08:32,880
+tuvimos dos situaciones, una con Navidad y
+
+245
+00:08:32,880 --> 00:08:35,610
+otra con los feriados de carnaval, que
+
+246
+00:08:35,610 --> 00:08:38,730
+justo la mercadería llegó uno o dos días
+
+247
+00:08:38,730 --> 00:08:41,010
+antes, por ejemplo de Navidad, donde hay
+
+248
+00:08:41,010 --> 00:08:43,080
+muy pocos días hábiles en el medio entre
+
+249
+00:08:43,080 --> 00:08:45,990
+el feriado de Navidad mismo, el día
+
+250
+00:08:45,990 --> 00:08:48,230
+anterior que casi nadie trabaja, después
+
+251
+00:08:48,230 --> 00:08:51,000
+tenés el feriado de año nuevo y fin de año
+
+252
+00:08:51,000 --> 00:08:52,530
+que también casi nadie trabaja...
+
+253
+00:08:52,860 --> 00:08:54,540
+se hace muy complicado retirar la
+
+254
+00:08:54,540 --> 00:08:56,700
+mercadería en los tiempos que te da el
+
+255
+00:08:56,700 --> 00:08:57,270
+puerto.
+
+256
+00:08:57,630 --> 00:08:59,427
+Entonces, in ese caso, con nuestro agente
+
+257
+00:08:59,427 --> 00:09:01,020
+de carga de confianza con el que
+
+258
+00:09:01,020 --> 00:09:03,540
+trabajamos hace mucho, hablamos y le
+
+259
+00:09:03,540 --> 00:09:03,870
+pedimos:
+
+260
+00:09:03,870 --> 00:09:05,880
+"Che, por favor, ¿podés negociarme con el
+
+261
+00:09:05,880 --> 00:09:09,090
+puerto al menos un día más de forzoso para
+
+262
+00:09:09,090 --> 00:09:10,080
+no incurrir en gastos?".
+
+263
+00:09:10,200 --> 00:09:11,880
+Y lo mismo con los feriados de carnaval:
+
+264
+00:09:11,880 --> 00:09:14,490
+nos cayó justo una carga de un cliente el
+
+265
+00:09:14,490 --> 00:09:17,280
+viernes, de que después tenía sábado no
+
+266
+00:09:17,281 --> 00:09:19,470
+laboral, domingo no laboral, lunes y
+
+267
+00:09:19,470 --> 00:09:21,945
+martes, y pasa lo mismo, se te achican
+
+268
+00:09:21,997 --> 00:09:22,890
+mucho los plazos.
+
+269
+00:09:22,890 --> 00:09:24,811
+Entonces uno le pide por favor al agente
+
+270
+00:09:24,811 --> 00:09:26,909
+de carga si puede negociarle uno o dos
+
+271
+00:09:26,909 --> 00:09:28,290
+días extra de forzoso.
+
+272
+00:09:28,740 --> 00:09:30,990
+Todas esas situaciones serían imposibles
+
+273
+00:09:31,260 --> 00:09:32,880
+con un agente de carga que es la primera
+
+274
+00:09:32,880 --> 00:09:34,740
+vez que trabajás o que no conocés, que te
+
+275
+00:09:34,740 --> 00:09:37,230
+asigna la naviera que usó tu proveedor
+
+276
+00:09:37,230 --> 00:09:37,950
+para despachar.
+
+277
+00:09:38,010 --> 00:09:39,510
+Por eso, sobre todo en primeras
+
+278
+00:09:39,510 --> 00:09:41,850
+importaciones, si podemos ocuparnos
+
+279
+00:09:41,850 --> 00:09:44,462
+nosotros ya desde acá de lo que es el
+
+280
+00:09:44,462 --> 00:09:46,380
+flete internacional, nos vamos a asegurar
+
+281
+00:09:46,380 --> 00:09:49,320
+de tener muy claro los costos y de tener
+
+282
+00:09:49,320 --> 00:09:51,600
+la atención que necesitamos, sobre todo en
+
+283
+00:09:51,600 --> 00:09:53,460
+estos momentos, de un agente de carga que
+
+284
+00:09:53,460 --> 00:09:55,560
+tenga sus oficinas acá en Argentina.
+
+285
+00:09:55,590 --> 00:09:56,940
+Y en cuanto a lo que es la parte del
+
+286
+00:09:56,940 --> 00:10:00,208
+seguro de la mercadería que incluye
+
+287
+00:10:00,208 --> 00:10:02,250
+nuestro proveedor si trabajamos CIF,
+
+288
+00:10:02,820 --> 00:10:04,588
+también tenemos algunas limitaciones al
+
+289
+00:10:04,588 --> 00:10:06,150
+respecto, porque solo estaríamos
+
+290
+00:10:06,210 --> 00:10:08,819
+asegurando el traslado hasta el puerto de
+
+291
+00:10:08,819 --> 00:10:10,140
+origen y el flete.
+
+292
+00:10:10,169 --> 00:10:11,700
+Pero si nosotros trabajamos con nuestro
+
+293
+00:10:11,700 --> 00:10:13,890
+propio broker de seguros, o contratando a
+
+294
+00:10:13,890 --> 00:10:15,690
+través de nuestro propio agente de carga
+
+295
+00:10:15,691 --> 00:10:17,670
+lo que es el seguro, podemos también
+
+296
+00:10:17,670 --> 00:10:19,860
+incluir otras otros gastos, otros ítems,
+
+297
+00:10:20,460 --> 00:10:22,170
+como por ejemplo todo lo que tenga que ver
+
+298
+00:10:22,170 --> 00:10:24,030
+con logística local (es decir, desde el
+
+299
+00:10:24,030 --> 00:10:25,440
+puerto hasta nuestro depósito).
+
+300
+00:10:26,160 --> 00:10:27,900
+Pero también podemos incluir los derechos
+
+301
+00:10:27,900 --> 00:10:30,180
+de importación, es decir, los impuestos
+
+302
+00:10:30,180 --> 00:10:30,840
+que pagamos.
+
+303
+00:10:31,410 --> 00:10:32,970
+Porque si nosotros cuando liberamos la
+
+304
+00:10:32,970 --> 00:10:36,000
+carga pagamos los impuestos y después algo
+
+305
+00:10:36,000 --> 00:10:38,490
+le pasa en el traslado hasta nuestro
+
+306
+00:10:38,520 --> 00:10:41,160
+depósito, probablemente un seguro por
+
+307
+00:10:41,160 --> 00:10:43,320
+defecto no nos va a incluir eso que ya
+
+308
+00:10:43,321 --> 00:10:44,310
+pagamos de impuestos.
+
+309
+00:10:45,210 --> 00:10:46,920
+Y también incluso se puede a veces
+
+310
+00:10:46,920 --> 00:10:49,830
+asegurar una ganancia mínima presunta que
+
+311
+00:10:49,830 --> 00:10:53,010
+va a rondar del 30% del valor de la
+
+312
+00:10:53,010 --> 00:10:54,180
+mercadería más los derechos de
+
+313
+00:10:54,180 --> 00:10:54,870
+importación.
+
+314
+00:10:55,230 --> 00:10:56,670
+Esto ya lo veremos en detalle más
+
+315
+00:10:56,670 --> 00:10:59,250
+adelante, pero son cuestiones que siempre
+
+316
+00:10:59,250 --> 00:11:01,200
+vale la pena analizar, porque uno a veces
+
+317
+00:11:01,205 --> 00:11:03,150
+está comprando mercadería que espera que
+
+318
+00:11:03,150 --> 00:11:06,210
+le dure tres meses, 6 meses, a veces un
+
+319
+00:11:06,210 --> 00:11:08,190
+año, o hicieron una compra de a varias
+
+320
+00:11:08,190 --> 00:11:10,227
+empresas, y si algo le pasa a esa carga
+
+321
+00:11:10,292 --> 00:11:13,170
+—ya sea en el flete marítimo o en destino—
+
+322
+00:11:13,620 --> 00:11:15,900
+está bueno poder cobrar una póliza más
+
+323
+00:11:15,900 --> 00:11:18,390
+grande de lo que hubiese sido si solo
+
+324
+00:11:18,390 --> 00:11:19,890
+aseguramos un traslado.
+
+325
+00:11:20,460 --> 00:11:22,740
+Sobre todo porque las pólizas puede ser
+
+326
+00:11:22,740 --> 00:11:25,980
+muy interesante cobrar más dinero que si
+
+327
+00:11:25,980 --> 00:11:28,260
+solo hubiésemos asegurado el traslado
+
+328
+00:11:28,650 --> 00:11:29,520
+internacional.
+
+329
+00:11:29,730 --> 00:11:31,740
+sobre todo porque las pólizas de este tipo
+
+330
+00:11:31,740 --> 00:11:34,260
+de seguro son muy bajas Sí es muy
+
+331
+00:11:34,260 --> 00:11:35,820
+importante tener en cuenta:
+
+332
+00:11:36,210 --> 00:11:38,280
+nunca trabajar sin seguro.
+
+333
+00:11:38,730 --> 00:11:40,620
+Porque ojo que si pasa algo con el
+
+334
+00:11:40,620 --> 00:11:43,840
+contenedor en la vía marítima, el
+
+335
+00:11:43,840 --> 00:11:45,090
+responsable es el importador.
+
+336
+00:11:45,780 --> 00:11:47,820
+Incluso en casos extraordinarios en los
+
+337
+00:11:47,820 --> 00:11:50,370
+que la naviera tenga que tirar al agua el
+
+338
+00:11:50,370 --> 00:11:52,650
+contenedor, pueden llegar a ser los
+
+339
+00:11:52,650 --> 00:11:55,110
+responsables ustedes de que al barco le
+
+340
+00:11:55,110 --> 00:11:57,180
+haya pasado algo, ya sea porque se
+
+341
+00:11:57,180 --> 00:11:58,830
+interpreta que puede haber estado mal
+
+342
+00:11:59,010 --> 00:12:01,140
+balanceado el contenedor o lo que sea.
+
+343
+00:12:01,650 --> 00:12:03,390
+Entonces ojo, porque se pueden comer un
+
+344
+00:12:03,390 --> 00:12:04,590
+problema muy grande.
+
+345
+00:12:04,890 --> 00:12:07,260
+Así que sí o sí, en cualquier tipo de
+
+346
+00:12:07,260 --> 00:12:07,980
+condición,
+
+347
+00:12:08,790 --> 00:12:10,430
+el seguro tiene que estar, lo paguen
+
+348
+00:12:10,430 --> 00:12:11,940
+ustedes o lo pague el proveedor, por lo
+
+349
+00:12:11,940 --> 00:12:14,010
+menos el seguro del flete marítimo.

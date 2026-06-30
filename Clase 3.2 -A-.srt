@@ -1,0 +1,1511 @@
+1
+00:00:00,000 --> 00:00:02,520
+El primer paso clave para empezar nuestra
+
+2
+00:00:02,525 --> 00:00:05,070
+importación y entender si va a ser viable
+
+3
+00:00:05,070 --> 00:00:07,650
+o no y los costos que vamos a tener puesto
+
+4
+00:00:07,740 --> 00:00:10,950
+en Argentina es solicitar la forma y el
+
+5
+00:00:10,950 --> 00:00:13,140
+pack in list en estos dos documentos
+
+6
+00:00:13,140 --> 00:00:14,970
+nosotros vamos a tener in formación de
+
+7
+00:00:14,970 --> 00:00:16,920
+toda la operación desde el costo de la
+
+8
+00:00:16,920 --> 00:00:19,680
+mercadería, la condición de la misma,
+
+9
+00:00:19,680 --> 00:00:22,500
+datos de proveedor, datos del tamaño que
+
+10
+00:00:22,500 --> 00:00:24,480
+ocupa la mercadería, entre otras
+
+11
+00:00:24,480 --> 00:00:26,242
+cuestiones con estos dos documento
+
+12
+00:00:26,253 --> 00:00:28,320
+nosotros vamos a poder costear toda la
+
+13
+00:00:28,320 --> 00:00:31,140
+carga vamos a poder entender qué impuestos
+
+14
+00:00:31,140 --> 00:00:33,510
+para y qué no qué intervenciones puede
+
+15
+00:00:33,512 --> 00:00:35,940
+tener de otros organismos desde dónde nos
+
+16
+00:00:35,940 --> 00:00:37,889
+hacemos cargo nosotros y hasta dónde
+
+17
+00:00:38,130 --> 00:00:40,320
+cuándo vamos a por cotizar la logística,
+
+18
+00:00:40,350 --> 00:00:42,900
+cotizar gestión gestiones adicionales,
+
+19
+00:00:43,260 --> 00:00:45,090
+todo estos dos documento nos van a
+
+20
+00:00:45,090 --> 00:00:46,830
+acompañar en todo el operación hasta que
+
+21
+00:00:46,830 --> 00:00:48,630
+hacemos la verificación de la mercadería y
+
+22
+00:00:48,630 --> 00:00:51,180
+se retira de aduana la forma llegado el
+
+23
+00:00:51,180 --> 00:00:53,610
+momento se convertía en una factura final
+
+24
+00:00:54,180 --> 00:00:55,980
+y el paguen list si bien no se acompaña
+
+25
+00:00:55,980 --> 00:00:58,319
+con un documento medio borrador, si sin
+
+26
+00:00:58,319 --> 00:01:00,120
+formación se va a usar como base para
+
+27
+00:01:00,120 --> 00:01:03,360
+generar por ejemplo el le que es como el
+
+28
+00:01:03,360 --> 00:01:04,860
+documento de seguimiento que va a
+
+29
+00:01:04,860 --> 00:01:07,080
+acompañar nuestra carga en la vía marítima
+
+30
+00:01:07,290 --> 00:01:09,120
+Adicionalmente vamos a tener un montón de
+
+31
+00:01:09,120 --> 00:01:11,970
+otros documentos como certificados y
+
+32
+00:01:11,970 --> 00:01:14,670
+permisos y acuerdos que llegado el momento
+
+33
+00:01:14,670 --> 00:01:16,260
+le vamos a pedir a nuestro proveedor
+
+34
+00:01:16,380 --> 00:01:19,020
+pensiones distancia de empezar evaluar si
+
+35
+00:01:19,020 --> 00:01:20,640
+el producto es viable o no para nosotros,
+
+36
+00:01:20,700 --> 00:01:22,590
+compró forma y paguen liz estamos más que
+
+37
+00:01:22,590 --> 00:01:24,960
+sobrados de hecho muchas veces solo compró
+
+38
+00:01:24,960 --> 00:01:27,420
+forma ya podamos avanzar bastante siempre
+
+39
+00:01:27,420 --> 00:01:29,280
+y cuando el proveedor nos puede indicar
+
+40
+00:01:29,340 --> 00:01:32,520
+más o menos que volumen va a tener la
+
+41
+00:01:32,520 --> 00:01:35,460
+carga embalada para por la logística pero
+
+42
+00:01:35,460 --> 00:01:36,990
+eso lo vamos a ver un poquito más adelante
+
+43
+00:01:37,440 --> 00:01:39,660
+de hecho incluso solo con la propor maya
+
+44
+00:01:39,660 --> 00:01:41,279
+podríamos avanzar basta mantener una
+
+45
+00:01:41,279 --> 00:01:43,590
+estimación de costos lo único que
+
+46
+00:01:43,590 --> 00:01:45,420
+necesitaríamos es que el proveedor nos día
+
+47
+00:01:45,420 --> 00:01:47,880
+por lo menos de manera aproximada qué
+
+48
+00:01:47,880 --> 00:01:50,340
+volumen en metros cúbicos ocupar nuestra
+
+49
+00:01:50,340 --> 00:01:52,219
+carga embalada para por cotizar a
+
+50
+00:01:52,236 --> 00:01:54,750
+logística pero vamos por partes, primero
+
+51
+00:01:54,750 --> 00:01:56,490
+veamos la forma y luego lo que sepa quien
+
+52
+00:01:56,490 --> 00:01:58,650
+list La forma es básicamente lo que
+
+53
+00:01:58,650 --> 00:02:00,750
+nosotros acá llamaríamos cotización o
+
+54
+00:02:00,753 --> 00:02:03,000
+presupuesto solo que tiene unas
+
+55
+00:02:03,000 --> 00:02:04,920
+características particulares de comercio
+
+56
+00:02:04,920 --> 00:02:06,990
+exterior, como por ejemplo los cinco teams
+
+57
+00:02:07,020 --> 00:02:09,030
+pero básicamente se eso, nos da formación
+
+58
+00:02:09,030 --> 00:02:11,490
+del los producto de la operación es un
+
+59
+00:02:11,490 --> 00:02:13,260
+documento modo borrador que se puede ir
+
+60
+00:02:13,260 --> 00:02:15,840
+modificando muchísimas veces y nosotros
+
+61
+00:02:15,990 --> 00:02:17,700
+tenemos que pedir a nuestro proveedor por
+
+62
+00:02:17,700 --> 00:02:19,050
+ejemplo si estamos comunicando nos por
+
+63
+00:02:19,050 --> 00:02:21,360
+WhatsApp, por may por cada Alibaba, por
+
+64
+00:02:21,360 --> 00:02:23,160
+donde sea, le decimos bueno a mí me
+
+65
+00:02:23,160 --> 00:02:25,770
+interesa en estos tres productos en estas
+
+66
+00:02:25,770 --> 00:02:28,945
+cantidades, pasame una forma y si le
+
+67
+00:02:28,950 --> 00:02:31,050
+podemos especificar qué tipo de forma
+
+68
+00:02:31,050 --> 00:02:33,720
+queremos, decir por ejemplo fogg mejor más
+
+69
+00:02:33,720 --> 00:02:35,821
+adelante vamos saber exactamente qué fogg
+
+70
+00:02:35,851 --> 00:02:37,740
+qué decir pero le voy a ir andando de lo
+
+71
+00:02:37,740 --> 00:02:39,870
+ideal es que sea fogg En cuanto el formato
+
+72
+00:02:39,870 --> 00:02:41,700
+de la forma nos podemos encontrar de todo
+
+73
+00:02:41,700 --> 00:02:43,650
+tipo desde un pedir que con lujo de
+
+74
+00:02:43,650 --> 00:02:46,980
+detalles hasta un Excel así nomás o una
+
+75
+00:02:46,980 --> 00:02:49,740
+imagen siempre nosotros y estamos hablando
+
+76
+00:02:49,740 --> 00:02:51,750
+con un proveedor podemos insistir le y
+
+77
+00:02:51,750 --> 00:02:53,970
+pedirle que nos pasen con alguna forma más
+
+78
+00:02:53,970 --> 00:02:56,130
+detallada es muy posible cuando charlamos
+
+79
+00:02:56,130 --> 00:02:57,660
+con un proveedor, sobre todo si se una
+
+80
+00:02:57,660 --> 00:02:59,040
+compra chica o recién nos estamos
+
+81
+00:02:59,040 --> 00:03:01,799
+conociendo, que al la forma nos pasa en
+
+82
+00:03:01,799 --> 00:03:03,510
+formación muy limitada, incluso por
+
+83
+00:03:03,510 --> 00:03:06,120
+escrito o nos mandar una jodido pero
+
+84
+00:03:06,180 --> 00:03:08,040
+nosotros tenemos que insistir en decirle
+
+85
+00:03:08,070 --> 00:03:10,436
+por favor pasame una forma en vez de febo
+
+86
+00:03:10,436 --> 00:03:13,080
+en Excel para tener una base Además
+
+87
+00:03:13,080 --> 00:03:15,060
+piensen en la forma como una especie de
+
+88
+00:03:15,090 --> 00:03:17,070
+base para el contrato que vamos a tener
+
+89
+00:03:17,070 --> 00:03:18,960
+con nuestro proveedor porque íbamos a
+
+90
+00:03:18,960 --> 00:03:21,570
+tener exactamente qué producto estamos
+
+91
+00:03:21,570 --> 00:03:24,240
+pidiendo es decir, por ejemplo, si yo voy
+
+92
+00:03:24,240 --> 00:03:26,370
+a comprar termos y voy a tener de varios
+
+93
+00:03:26,370 --> 00:03:28,650
+colores, cada termo de cada color tiene
+
+94
+00:03:28,650 --> 00:03:31,140
+que tener un código de producto diferente
+
+95
+00:03:31,350 --> 00:03:34,680
+por ejemplo uno será te erre uno, el color
+
+96
+00:03:34,680 --> 00:03:36,930
+amarillo será terre dos, el rojo será
+
+97
+00:03:36,930 --> 00:03:39,330
+terrestres y de esa manera ya nos
+
+98
+00:03:39,330 --> 00:03:41,400
+empezamos a asegurar si bien estámos
+
+99
+00:03:41,400 --> 00:03:44,010
+negociando de esta manera ya nos empezamos
+
+100
+00:03:44,040 --> 00:03:46,590
+asegurar que los precios y las condiciones
+
+101
+00:03:46,590 --> 00:03:49,050
+que estamos negociando están directamente
+
+102
+00:03:49,050 --> 00:03:51,870
+relacionadas con los productos y las
+
+103
+00:03:51,870 --> 00:03:54,210
+cantidades que estamos pidiendo porque no
+
+104
+00:03:54,210 --> 00:03:56,039
+vaya ser que nosotros le decimos bueno
+
+105
+00:03:56,040 --> 00:03:58,170
+quiero no sé quinientos teclado de
+
+106
+00:03:58,170 --> 00:04:00,930
+computadora, nos pasa un precio y cuando
+
+107
+00:04:00,930 --> 00:04:02,850
+le decimos así bueno estoy interesado, en
+
+108
+00:04:02,850 --> 00:04:05,010
+o dice ah no pero es era solo en color
+
+109
+00:04:05,010 --> 00:04:08,460
+negro, si vos querés color azul o rosa te
+
+110
+00:04:08,460 --> 00:04:11,070
+sale dos dólares más entonces para evitar
+
+111
+00:04:11,070 --> 00:04:13,440
+esas pérdidas de tiempo ya le pedimos de
+
+112
+00:04:13,440 --> 00:04:15,120
+una una forma y le decimos mira quiero
+
+113
+00:04:15,120 --> 00:04:17,280
+quinientos teclados, doscientos cincuenta
+
+114
+00:04:17,280 --> 00:04:19,830
+negro, doscientos cincuenta rosa, pasame
+
+115
+00:04:19,830 --> 00:04:21,510
+la prof forma y ya vamos a tener tony
+
+116
+00:04:21,511 --> 00:04:22,110
+formación
+
+117
+00:04:23,010 --> 00:04:24,630
+es muy posible que cuando el y pidamos
+
+118
+00:04:24,930 --> 00:04:28,740
+esta data por escrito nos diga ano pará al
+
+119
+00:04:28,740 --> 00:04:31,140
+final pará los teclado rosa necesitá un
+
+120
+00:04:31,140 --> 00:04:33,090
+mínimo de quinientas unidades entonces
+
+121
+00:04:33,090 --> 00:04:36,090
+ayude decidirán si rectifica ni avanzan o
+
+122
+00:04:36,150 --> 00:04:38,550
+buscan otro proveedor Por otro lado para
+
+123
+00:04:38,550 --> 00:04:41,400
+cotizar cualquier otro ser inicio de un
+
+124
+00:04:41,407 --> 00:04:44,400
+importación, se despacho de aduana, sea
+
+125
+00:04:44,400 --> 00:04:46,530
+logística, incluso para calcular los
+
+126
+00:04:46,530 --> 00:04:48,120
+impuestos y otros gastos que ustedes
+
+127
+00:04:48,120 --> 00:04:51,720
+puedan tener, documento clave que se va a
+
+128
+00:04:51,720 --> 00:04:54,420
+pedir es la forma adicionalmente también
+
+129
+00:04:54,420 --> 00:04:56,100
+puede ser pack kylie para el tema de la
+
+130
+00:04:56,100 --> 00:04:58,140
+logística, pero sin ese documento usted no
+
+131
+00:04:58,140 --> 00:05:00,180
+van a poder avanzar en ninguna cotización
+
+132
+00:05:00,660 --> 00:05:02,790
+sin en resumen antes de volvernos locos
+
+133
+00:05:02,790 --> 00:05:04,559
+con el proveedor con las cantidad
+
+134
+00:05:04,561 --> 00:05:07,920
+unidades, con la terminación del packaging
+
+135
+00:05:07,920 --> 00:05:09,900
+del producto, lo primero que vamos a hacer
+
+136
+00:05:10,290 --> 00:05:12,690
+es buscar un producto que más o menos nos
+
+137
+00:05:12,690 --> 00:05:13,320
+interese,
+
+138
+00:05:14,280 --> 00:05:16,500
+y la el proveedor, hacerle un pedido de
+
+139
+00:05:16,500 --> 00:05:18,420
+cotización por una equis cantidad que nos
+
+140
+00:05:18,420 --> 00:05:21,210
+parece razonable y pedirle una forma y el
+
+141
+00:05:21,210 --> 00:05:23,490
+volumen que representa esa forma o para
+
+142
+00:05:23,490 --> 00:05:26,730
+quien list con y sin formación nosotros no
+
+143
+00:05:26,730 --> 00:05:28,950
+vamos a poder dar vuelta y calcular todo
+
+144
+00:05:28,950 --> 00:05:30,630
+lo que necesitamos para nuestra operación
+
+145
+00:05:30,973 --> 00:05:33,540
+inicie pues avanzamos con ese proveedor ya
+
+146
+00:05:33,540 --> 00:05:35,460
+tenemos hecho la mitad de la
+
+147
+00:05:35,460 --> 00:05:37,590
+documentación, porque todo documento
+
+148
+00:05:37,590 --> 00:05:39,960
+después se van a convertir en los finales
+
+149
+00:05:39,960 --> 00:05:40,800
+que necesitamos
+
+150
+00:05:42,000 --> 00:05:44,280
+Bien, acabamos saber un modelo de forma
+
+151
+00:05:44,280 --> 00:05:46,380
+obviamente completamente ficticio, pero
+
+152
+00:05:46,380 --> 00:05:48,330
+para que vean los datos que puede haber en
+
+153
+00:05:48,330 --> 00:05:49,080
+este documento
+
+154
+00:05:49,920 --> 00:05:51,960
+les puede pasar casa algún dato que no es
+
+155
+00:05:51,960 --> 00:05:54,689
+tienen la forma en ese caso se lo piden
+
+156
+00:05:54,689 --> 00:05:56,880
+puntualmente al proveedor y lo adjunta no
+
+157
+00:05:56,880 --> 00:05:59,220
+lo guardan con la pro forma llegado el
+
+158
+00:05:59,220 --> 00:06:01,290
+momento de mi la factura final, ahí sí
+
+159
+00:06:01,290 --> 00:06:03,450
+llevan a peirce aérea mete ató por escrito
+
+160
+00:06:03,450 --> 00:06:05,940
+en el documento Lo primero que vamos a ver
+
+161
+00:06:05,940 --> 00:06:08,280
+en la forma son los datos del proveedor
+
+162
+00:06:08,970 --> 00:06:10,710
+acabó en las cuestiones más importantes es
+
+163
+00:06:10,770 --> 00:06:12,688
+por ejemplo el número de factura que se
+
+164
+00:06:12,688 --> 00:06:15,120
+este o número de forma que nos va a servir
+
+165
+00:06:15,150 --> 00:06:17,340
+para identificar qué forma estamos viendo
+
+166
+00:06:17,340 --> 00:06:18,750
+porque si empezamos a hablar con muchos
+
+167
+00:06:18,750 --> 00:06:21,120
+proveedores y acá proveedor le vamos
+
+168
+00:06:21,120 --> 00:06:23,460
+viendo modificaciones íbamos íbamos
+
+169
+00:06:23,460 --> 00:06:25,770
+cambiando esta forma está bueno siempre
+
+170
+00:06:25,770 --> 00:06:27,570
+saber cuál es la última o sobre cuál
+
+171
+00:06:27,570 --> 00:06:30,090
+estamos trabajando lo mismo pasa con la
+
+172
+00:06:30,090 --> 00:06:33,000
+fecha de la forma es importante para no
+
+173
+00:06:33,000 --> 00:06:35,490
+perdernos y tener trazabilidad de qué
+
+174
+00:06:35,490 --> 00:06:37,320
+documento estamos viendo también podemos
+
+175
+00:06:37,320 --> 00:06:39,090
+ver por ejemplo la razón social del
+
+176
+00:06:39,090 --> 00:06:41,490
+vendedor, que este hacer importante para
+
+177
+00:06:41,490 --> 00:06:43,380
+cuán dormimos la carpeta con el despachan
+
+178
+00:06:43,380 --> 00:06:45,838
+te ya que hay que declararlo y acá tenemos
+
+179
+00:06:45,842 --> 00:06:48,148
+la dirección, que en principio uno
+
+180
+00:06:48,148 --> 00:06:50,220
+entendería que la dirección de la fábrica
+
+181
+00:06:50,280 --> 00:06:52,765
+por donde se va retira la mercadería si es
+
+182
+00:06:52,765 --> 00:06:55,320
+que trabajamos export pero yo lo tomaría
+
+183
+00:06:55,320 --> 00:06:57,300
+con pinzas porque es muy posible que tenga
+
+184
+00:06:57,300 --> 00:06:59,010
+encargada esta dirección por defecto en la
+
+185
+00:06:59,181 --> 00:07:01,080
+forma y que después justo nuestra
+
+186
+00:07:01,081 --> 00:07:03,480
+mercadería están otro depósito así que
+
+187
+00:07:03,480 --> 00:07:06,180
+llegado el momento de coordinar tanto el
+
+188
+00:07:06,180 --> 00:07:08,820
+retiro como el embarque de la carga, le
+
+189
+00:07:08,820 --> 00:07:11,190
+vamos a pedir puntualmente la dirección
+
+190
+00:07:11,190 --> 00:07:13,531
+del depósito Lo siguiente que vamos a ver
+
+191
+00:07:13,531 --> 00:07:15,840
+son nuestros datos, que esto se lo tenemos
+
+192
+00:07:15,840 --> 00:07:18,929
+que enviar por donde estemos conversando
+
+193
+00:07:18,930 --> 00:07:20,609
+nuestro proveedor para que lo agreguen
+
+194
+00:07:20,670 --> 00:07:22,920
+pero forma muchos los van a pedir para
+
+195
+00:07:22,920 --> 00:07:25,770
+mandarnos la forma o un presupuesto estos
+
+196
+00:07:25,770 --> 00:07:27,630
+datos que le estoy comentando acá
+
+197
+00:07:27,631 --> 00:07:29,340
+obviamente que para empezar, si ustedes
+
+198
+00:07:29,340 --> 00:07:31,290
+están recién solicitando presupuesto
+
+199
+00:07:31,336 --> 00:07:32,789
+pueden darle cualquier dato, le pueden
+
+200
+00:07:32,789 --> 00:07:36,240
+decir soy Román y este mi me y fin ahora
+
+201
+00:07:36,240 --> 00:07:38,280
+cuando ya estemos avanzando y creemos que
+
+202
+00:07:38,280 --> 00:07:40,200
+se puede ser nuestro proveedor definitivo,
+
+203
+00:07:40,410 --> 00:07:42,269
+yo les sugiero que ya le de en sus datos
+
+204
+00:07:42,269 --> 00:07:44,763
+fiscales con los que van importar si
+
+205
+00:07:44,763 --> 00:07:46,620
+decisión importara su nombre como persona
+
+206
+00:07:46,620 --> 00:07:49,620
+física le dicen bueno Román petronio ya le
+
+207
+00:07:49,620 --> 00:07:51,660
+pasan el with le pasa en la dirección
+
+208
+00:07:51,660 --> 00:07:54,060
+fiscal, la que figuran AFIP y un contacto,
+
+209
+00:07:54,060 --> 00:07:56,733
+mil o WhatsApp obviamente si tiene una ese
+
+210
+00:07:56,733 --> 00:07:59,370
+revele los datos de la ese revele porque
+
+211
+00:07:59,370 --> 00:08:01,560
+esto cuando se convierta en la factura
+
+212
+00:08:01,560 --> 00:08:03,927
+final, si ya tiene los datos bien cargado
+
+213
+00:08:03,927 --> 00:08:06,120
+de los datos fiscales, bastardo prolijo y
+
+214
+00:08:06,120 --> 00:08:07,620
+no van a tener que andar haciendo
+
+215
+00:08:07,620 --> 00:08:09,960
+modificaciones a último momento Lo
+
+216
+00:08:09,960 --> 00:08:11,070
+siguiente que tenemos que lo más
+
+217
+00:08:11,070 --> 00:08:13,080
+importante es el cuerpo de la forma
+
+218
+00:08:13,200 --> 00:08:14,550
+acabamos haciendo un listado de los
+
+219
+00:08:14,550 --> 00:08:16,410
+productos que nos está cotizando este
+
+220
+00:08:16,410 --> 00:08:18,716
+proveedor de van en contra una variedad
+
+221
+00:08:18,728 --> 00:08:21,210
+gigante de modelos de estas tablitas
+
+222
+00:08:21,480 --> 00:08:23,670
+porque como le dije por qué no deja de ser
+
+223
+00:08:23,670 --> 00:08:25,860
+un presupuesto borrador pero lo más
+
+224
+00:08:25,860 --> 00:08:27,750
+importante que tienen que buscar es que
+
+225
+00:08:27,750 --> 00:08:29,520
+tenga la descripción del producto,
+
+226
+00:08:30,390 --> 00:08:31,800
+obviamente las cantidades,
+
+227
+00:08:32,790 --> 00:08:35,550
+el código que esto también es bastante
+
+228
+00:08:35,550 --> 00:08:39,180
+importante porque muchos proveedores no lo
+
+229
+00:08:39,180 --> 00:08:42,540
+pasan y lo vamos a necesitar para la
+
+230
+00:08:42,540 --> 00:08:45,780
+factura final así que si ya lo tiene es un
+
+231
+00:08:45,780 --> 00:08:47,520
+buen indicador de que están trabajando con
+
+232
+00:08:47,520 --> 00:08:49,800
+un proveedor prolijo obviamente vamos a
+
+233
+00:08:49,800 --> 00:08:52,350
+ver el precio yo unitario de nuestro
+
+234
+00:08:52,350 --> 00:08:54,600
+producto y el precio total en base a las
+
+235
+00:08:54,600 --> 00:08:57,601
+cantidades que estamos pidiendo esto se va
+
+236
+00:08:57,601 --> 00:08:59,580
+a repetir por la todos los productos que
+
+237
+00:08:59,580 --> 00:09:02,460
+tengamos y acá vamos a tener el total de
+
+238
+00:09:02,460 --> 00:09:03,930
+nuestra forma que este es el total de
+
+239
+00:09:03,930 --> 00:09:05,880
+nuestra operación Hasta acá podríamos
+
+240
+00:09:05,880 --> 00:09:07,590
+decir que similar a un presupuesto que
+
+241
+00:09:07,590 --> 00:09:10,285
+podemos ver en Argentina, pero acá viene
+
+242
+00:09:10,290 --> 00:09:13,320
+la experiencias primero y más importante
+
+243
+00:09:13,440 --> 00:09:16,620
+en la forma y está bien hecha tenemos que
+
+244
+00:09:16,620 --> 00:09:18,900
+tener la formación de los incoterms
+
+245
+00:09:19,830 --> 00:09:23,070
+que son hasta donde se ocupa el proveedor
+
+246
+00:09:23,940 --> 00:09:25,890
+según el precio que nos está cotizando
+
+247
+00:09:26,340 --> 00:09:28,440
+hasta acá más o menos es la misma y
+
+248
+00:09:28,440 --> 00:09:30,120
+formación que ustedes pueden ver en un
+
+249
+00:09:30,150 --> 00:09:32,964
+presupuesto to argentino pero ahora vienen
+
+250
+00:09:32,964 --> 00:09:35,190
+las diferencias que lo más importante el
+
+251
+00:09:35,190 --> 00:09:36,779
+primer dato que tiene que estar que les va
+
+252
+00:09:36,782 --> 00:09:40,350
+condicionar el resto del operación, es con
+
+253
+00:09:40,350 --> 00:09:43,170
+qué modalidad de incoterms trabajaste
+
+254
+00:09:43,170 --> 00:09:45,270
+proveedor en el próximo módulo les voy a
+
+255
+00:09:45,270 --> 00:09:47,100
+explicar al respecto de los cinco terms
+
+256
+00:09:47,250 --> 00:09:50,160
+pero básicamente son como un contrato de
+
+257
+00:09:50,280 --> 00:09:52,470
+ha estado dónde se ocupa el proveedor en
+
+258
+00:09:52,470 --> 00:09:55,050
+esta operación es decir si se ocupa solo
+
+259
+00:09:55,050 --> 00:09:57,660
+hasta la puerta de su depósito, si se
+
+260
+00:09:57,660 --> 00:10:00,060
+ocupa de embarcar la mercaderías y cinco
+
+261
+00:10:00,060 --> 00:10:02,100
+chupa hasta el flete internacional es
+
+262
+00:10:02,100 --> 00:10:04,050
+decir, este precio que nos exista
+
+263
+00:10:04,050 --> 00:10:08,130
+cotizando qué responsabilidades implica
+
+264
+00:10:08,190 --> 00:10:10,650
+para y proveedor ese dato muy importante
+
+265
+00:10:10,650 --> 00:10:12,450
+porque conectada data vamos a saber si
+
+266
+00:10:12,450 --> 00:10:14,790
+nosotros tenemos que cotizar fletes en
+
+267
+00:10:14,791 --> 00:10:16,710
+origen, en si tenemos que cotizar fletes
+
+268
+00:10:16,730 --> 00:10:19,230
+internacional, si vamos a embarcaron la
+
+269
+00:10:19,230 --> 00:10:21,450
+carga, entonces nos condiciona bastante la
+
+270
+00:10:21,450 --> 00:10:23,760
+operación además varias impuestos y
+
+271
+00:10:23,760 --> 00:10:26,760
+calculan en base a cómo es este término,
+
+272
+00:10:27,000 --> 00:10:28,860
+calor vamos a ver más adelante pero lo
+
+273
+00:10:28,860 --> 00:10:30,930
+importante ahora es identificar en dónde
+
+274
+00:10:30,930 --> 00:10:33,420
+lo vemos si bien puede estar en muchas
+
+275
+00:10:33,420 --> 00:10:36,330
+acciones de una forma suele verse primero
+
+276
+00:10:36,330 --> 00:10:39,390
+en la columna del precio del producto, que
+
+277
+00:10:39,390 --> 00:10:42,240
+podría ser esta, o podría ser de precio
+
+278
+00:10:42,240 --> 00:10:44,725
+total en este caso lo podemos ver, se lo
+
+279
+00:10:44,730 --> 00:10:46,950
+voy a málaga en otro color, rojo lo
+
+280
+00:10:46,950 --> 00:10:49,320
+podemos ver ya como primer indicación en
+
+281
+00:10:49,320 --> 00:10:52,410
+la columna de precio total, ven, a casa
+
+282
+00:10:52,410 --> 00:10:55,380
+nos está diciendo que estos valores son
+
+283
+00:10:55,440 --> 00:10:58,439
+foto efe obe larga como un distancia lo
+
+284
+00:10:58,439 --> 00:11:00,540
+vamos a poder ver en las aclaraciones de
+
+285
+00:11:00,540 --> 00:11:03,900
+la forma acá abajo, ven que dice notas
+
+286
+00:11:04,800 --> 00:11:06,691
+y ya nos está diciendo que los términos de
+
+287
+00:11:06,691 --> 00:11:07,650
+esta operación son
+
+288
+00:11:08,640 --> 00:11:10,650
+entonces nosotros ya sabemos y ya podemos
+
+289
+00:11:10,920 --> 00:11:12,720
+utilizar esta data por ejemplo para
+
+290
+00:11:12,720 --> 00:11:14,700
+cotizar logística para cotizar con el
+
+291
+00:11:14,700 --> 00:11:17,160
+despacho ante decirle nuestro operación
+
+292
+00:11:17,160 --> 00:11:20,250
+son doce mil dólares fogg Otra y formación
+
+293
+00:11:20,250 --> 00:11:22,260
+muy importante que vamos a ver en la forma
+
+294
+00:11:22,260 --> 00:11:24,270
+es el tiempo de producción de nuestra
+
+295
+00:11:24,270 --> 00:11:26,850
+mercadería en este caso nos dice de siete
+
+296
+00:11:26,850 --> 00:11:29,280
+a quince días viles que van a hacer
+
+297
+00:11:29,280 --> 00:11:31,560
+seguramente luego del pago que le hagamos
+
+298
+00:11:31,830 --> 00:11:33,150
+esta formación y que tenga la muy en
+
+299
+00:11:33,150 --> 00:11:35,550
+cuenta para nuestro cronograma porque si
+
+300
+00:11:35,550 --> 00:11:37,380
+bien se suele estimar que un freddy desde
+
+301
+00:11:37,380 --> 00:11:40,380
+China Buenos Aires dura aproximadamente
+
+302
+00:11:40,380 --> 00:11:42,720
+cuarenta cuarenta y cinco días, muchas
+
+303
+00:11:42,720 --> 00:11:44,100
+veces no se considera el tiempo de
+
+304
+00:11:44,100 --> 00:11:46,350
+producción del proveedor y muchas otras
+
+305
+00:11:46,350 --> 00:11:48,401
+veces no se considera el tiempo de marcar
+
+306
+00:11:48,444 --> 00:11:50,250
+la mercadería que puede ser como mínimo
+
+307
+00:11:50,250 --> 00:11:50,880
+una semana
+
+308
+00:11:51,720 --> 00:11:53,370
+eso en la clase cronograma lo vamos a ver
+
+309
+00:11:53,370 --> 00:11:55,350
+en detalle, pero es otro dato del que
+
+310
+00:11:55,350 --> 00:11:56,970
+tienen que tomar nota Y otro dato que
+
+311
+00:11:56,970 --> 00:11:59,310
+vamos a ver en la sección de notas es la
+
+312
+00:11:59,310 --> 00:12:01,890
+condición de dado que en líneas generales
+
+313
+00:12:01,890 --> 00:12:03,540
+siempre va a ser de cien porciento por
+
+314
+00:12:03,541 --> 00:12:06,030
+anticipado a un proveedor les va a poner
+
+315
+00:12:06,030 --> 00:12:07,710
+bueno treinta porciento para empezar el
+
+316
+00:12:07,710 --> 00:12:09,870
+pedido y setenta porciento antes del
+
+317
+00:12:09,870 --> 00:12:11,700
+embarque o contra embarque
+
+318
+00:12:12,510 --> 00:12:14,640
+pero afines operativo va a ser cien
+
+319
+00:12:14,640 --> 00:12:18,000
+porciento por adelantado por qué ese saldo
+
+320
+00:12:18,000 --> 00:12:20,670
+restante siempre es antes de mar o sea
+
+321
+00:12:20,674 --> 00:12:23,340
+ningún proveedor nuevo les va despachar
+
+322
+00:12:23,340 --> 00:12:25,080
+mercadería, no les va a sacar de la puerta
+
+323
+00:12:25,080 --> 00:12:27,570
+de su fábrica, nueva cruzar la puerta sin
+
+324
+00:12:27,570 --> 00:12:29,308
+que hayan pagado el cien porciento ellos
+
+325
+00:12:29,308 --> 00:12:30,960
+ya sépalo desde ya
+
+326
+00:12:32,250 --> 00:12:34,080
+hoy en día es hoy choca contra las
+
+327
+00:12:34,080 --> 00:12:35,940
+condiciones de pago que permite Argentina,
+
+328
+00:12:35,940 --> 00:12:38,460
+por lo menos a marzo mil veintiséis lo
+
+329
+00:12:38,460 --> 00:12:39,900
+vamos a ver el módulo de pago no se
+
+330
+00:12:39,900 --> 00:12:42,480
+preocupe pero y que se van de la condición
+
+331
+00:12:42,480 --> 00:12:44,040
+más en líneas generales siempre cien
+
+332
+00:12:44,040 --> 00:12:46,050
+porciento para anticipado alguno le
+
+333
+00:12:46,050 --> 00:12:48,660
+pedirán un adelanto para iniciar el pedido
+
+334
+00:12:49,230 --> 00:12:51,120
+y en saldo restante para despachar pero
+
+335
+00:12:51,120 --> 00:12:53,760
+siempre es antes de marca la mercadería
+
+336
+00:12:54,570 --> 00:12:56,549
+Y por último en una forma también vamos a
+
+337
+00:12:56,549 --> 00:12:58,170
+encontrar los datos bancarios del
+
+338
+00:12:58,170 --> 00:12:58,830
+proveedor
+
+339
+00:12:59,880 --> 00:13:02,730
+acá no hay mucho que revisar más que que
+
+340
+00:13:02,730 --> 00:13:05,790
+la cuenta beneficiario tiene que coincidir
+
+341
+00:13:06,450 --> 00:13:09,226
+con la razón social de la factura por
+
+342
+00:13:09,570 --> 00:13:12,180
+siempre van a trabajar todo a una misma un
+
+343
+00:13:12,180 --> 00:13:15,420
+mismo proveedor, no pueden pagarle a equis
+
+344
+00:13:15,570 --> 00:13:17,700
+y que la factura venga nombre de y es una
+
+345
+00:13:17,700 --> 00:13:19,530
+misma operación con un mismo proveedor
+
+346
+00:13:19,620 --> 00:13:20,910
+siempre hablando, no, de que hice una sola
+
+347
+00:13:20,910 --> 00:13:23,520
+carga, así que lo que tienen que realizar
+
+348
+00:13:23,520 --> 00:13:24,060
+ese eso
+
+349
+00:13:25,020 --> 00:13:26,550
+así que en esta instancia si ven que los
+
+350
+00:13:26,550 --> 00:13:27,930
+datos de la cuenta la que hay que
+
+351
+00:13:27,930 --> 00:13:30,600
+transferir son diferentes de los datos
+
+352
+00:13:30,600 --> 00:13:32,668
+principales de la empresario proveedor,
+
+353
+00:13:33,030 --> 00:13:35,190
+simplemente vayan haciéndole la consulta
+
+354
+00:13:35,610 --> 00:13:37,860
+de sitio está bien o si puede hacerle la
+
+355
+00:13:37,860 --> 00:13:40,080
+factura a nombre de a quién le van a
+
+356
+00:13:40,080 --> 00:13:40,710
+transferir
+
+357
+00:13:41,820 --> 00:13:44,070
+Algunos proveedores puede que ya le
+
+358
+00:13:44,070 --> 00:13:46,890
+detalle los metros cúbicos o el tamaño de
+
+359
+00:13:46,890 --> 00:13:50,220
+los productos en la forma eso es ideal
+
+360
+00:13:50,370 --> 00:13:52,320
+porque en un solo documento ya tienen y
+
+361
+00:13:52,332 --> 00:13:53,430
+formación que necesitan:
+
+362
+00:13:53,430 --> 00:13:56,250
+precio, condiciones y volumen ahora
+
+363
+00:13:56,250 --> 00:13:58,320
+también es muy probable que no figure y
+
+364
+00:13:58,320 --> 00:14:01,110
+por eso le dejan de pedir por otro dado el
+
+365
+00:14:01,110 --> 00:14:02,910
+volumen de la mercadería de esta carga
+
+366
+00:14:02,910 --> 00:14:04,530
+puntual o el y
+
+367
+00:14:05,370 --> 00:14:07,110
+en caso de figurar tendría que estar por
+
+368
+00:14:07,110 --> 00:14:09,089
+acá, o bien les van a detallar en cada
+
+369
+00:14:09,150 --> 00:14:11,700
+nombre del producto cuáles son las medidas
+
+370
+00:14:11,700 --> 00:14:14,310
+del bulto, o o bien puede ser que
+
+371
+00:14:14,310 --> 00:14:16,380
+directamente lo vean en el total de la pro
+
+372
+00:14:16,380 --> 00:14:18,870
+forma abajo del precio en dólares le va a
+
+373
+00:14:18,871 --> 00:14:21,240
+decir por ejemplo cinco o diez metros
+
+374
+00:14:21,240 --> 00:14:23,370
+cúbicos como por ejemplo acá en este caso
+
+375
+00:14:23,370 --> 00:14:26,100
+puede aparecer como m metro cúbico o
+
+376
+00:14:26,100 --> 00:14:28,766
+abreviado muchas veces como se ve larga e
+
+377
+00:14:28,766 --> 00:14:30,990
+m, que sería básicamente metros cúbicos
+
+378
+00:14:31,012 --> 00:14:32,670
+okay with meter en inglés
