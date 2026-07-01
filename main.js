@@ -10,8 +10,8 @@ import { Loader } from "./js/components/Loader.js";
 import { Carousel } from "./js/components/Carousel.js";
 import { Spotlight } from "./js/components/Spotlight.js";
 import { HorizontalGallery } from "./js/components/HorizontalGallery.js";
-import { Services } from "./js/components/Services.js";
 import { ProductGallery } from "./js/components/ProductGallery.js";
+import { Explore } from "./js/components/Explore.js";
 
 // Registrar plugins de GSAP
 gsap.registerPlugin(SplitText, CustomEase, ScrollTrigger);
@@ -33,8 +33,8 @@ function initAllComponents(data) {
     carouselInstance = new Carousel(".carousel", data.carouselSlides);
     new Spotlight(".spotlight");
     new HorizontalGallery(".horizontal-gallery");
-    new Services(".services-section");
     new ProductGallery(".products-section", data.productsData);
+    new Explore(".explore-section", data.exploreData);
 }
 
 // Arrancar la aplicación cuando el DOM esté listo

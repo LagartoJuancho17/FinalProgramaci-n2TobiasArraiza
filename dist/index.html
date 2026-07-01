@@ -5,18 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Programación 2 | Tobias Arraiza</title>
-  <script type="module" crossorigin src="/assets/index-DRRVDAjp.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-CxuCyOjS.css">
+
+  <script type="module" crossorigin src="/assets/index-CC-Ov6-G.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-7JTN7yUK.css">
 </head>
 
 <body>
     
     <!-- ─────────── LOADER ─────────── -->
-    <div class="loader">
-        <div class="flex-loader">
-            <div class="text-loader-left">Drillot</div>
+    <div class="loader fixed inset-0 z-[9999] flex flex-col justify-center items-center gap-16 w-full h-full p-8 translate-y-0">
+        <div class="flex-loader flex justify-between items-center w-full max-w-[1200px] px-0 py-8">
+            <div class="text-loader-left w-3 ">Drillot</div>
             <h1 class="logo_loader">aether.</h1>
-            <div class="text-loader-right">Studio</div>
+            <div class="text-loader-right text-right">Studio</div>
         </div>
 
         <div class="flex-counter">
@@ -31,173 +32,136 @@
         </div>
     </div>
     
-    <nav>
-        <div class="logo">
-            <a href="">Drillot Studio</a>
+    <nav class="fixed w-full p-8 flex justify-between items-start z-10 font-['Space_Grotesk']">
+        <div class="logo w-8">
+            <a href="" class="uppercase">Drillot Studio</a>
         </div>
-        <div class="nav-links">
+        <div class="nav-links flex gap-3 decoration uppercase inline-block">
             <a href="">Home</a>
             <a href="">Projects</a>
             <a href="">About Us</a>
         </div>
     </nav>
 
-    <div class="carousel">
-        <div class="carousel-images"></div>
+    <div class="carousel relative w-full h-screen overflow-hidden">
+        <div class="carousel-images absolute top-0 left-0 w-full h-full">
+
+        </div>
     </div>
 
-    <div class="slider-controls">
-        <button class="control-btn prev-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fff">
+    <div class="slider-controls absolute top-2/4 left-0 w-full p-8 flex justify-between z-10">
+        <button class="control-btn prev-btn flex p-5 items-center justify-center bg-transparent rounded-xs cursor-pointer">
+            <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fff">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
             </svg>
         </button>
 
-        <button class="control-btn next-btn">
-            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fff">
+        <button class="control-btn next-btn flex p-5 items-center justify-center bg-transparent rounded-xs cursor-pointer">
+            <svg class="w-4 h-4" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fff">
                 <path d="M647-440 423-664l57-56 320 320-320 320-57-56 224-224H160v-80h487Z" />
             </svg>
         </button>
     </div>
 
-    <footer>
-        <p>Experiment</p>
-        <p>Desarrollado por Tobias Arraiza</p>
-    </footer>
-
     <main class="mini-timeline-cards">
-    <section class="intro">
-        <h1>The art of selling becomes the art of sensing.</h1>
-    </section>
 
-    <section class="spotlight">
+    <section class="spotlight relative w-full h-svh p-4 content-center overflow-hidden">
         <div class="spotlight-header">
-            <h1>Time streches differently inside this frame.</h1>
+            <h1 class="w-2/4 self-center text-center">Time streches differently inside this frame.</h1>
         </div>
 
-        <div class="spotlight-images">
-            <div class="spotlight-img">
+        <div class="spotlight-images absolute top-0 left-0 w-full h-full">
+            <div class="spotlight-img absolute top-2/4 left-2/4 aspect-[7/5] rounded-2xl overflow-hidden">
                 <img src="/assets/imagen1-Tc4g8uNg.png" alt="">
             </div>
-            <div class="spotlight-img">
+            <div class="spotlight-img absolute top-2/4 left-2/4 aspect-[7/5] rounded-2xl overflow-hidden">
                 <img src="/assets/imagen2-xPHPc2pa.png" alt="">
             </div>
-            <div class="spotlight-img">
+            <div class="spotlight-img absolute top-2/4 left-2/4 aspect-[7/5] rounded-2xl overflow-hidden">
                 <img src="/assets/imagen3-BNdaEoL-.png" alt="">
             </div>
-            <div class="spotlight-img">
+            <div class="spotlight-img absolute top-2/4 left-2/4 aspect-[7/5] rounded-2xl overflow-hidden">
                 <img src="/assets/imagen4-BNpKDDkV.png" alt="">
             </div>
         </div>
     </section>
 
-    <section class="horizontal-gallery">
-        <div class="gallery-wrapper">
+    <section class="horizontal-gallery relative w-full h-full overflow-hidden">
+        <div class="gallery-wrapper flex flex-nowrap w-max h-fu ll will-change-transform">
             <!-- Slide 1 -->
-            <div class="gallery-slide">
-                <div class="slide-img-container">
-                    <img src="/assets/horizontalGallery1-DwmWUEG9.png" alt="Abstract Form">
-                    <div class="slide-text">
-                        <h3>Abstract Form</h3>
-                        <p>Exploring geometry and negative space.</p>
+            <div class="gallery-slide relative w-screen h-screen flex justify-center items-center p-0 shrink-0">
+                <div class="slide-img-container relative w-full h-full overflow-hidden cursor-pointer">
+                    <img src="/assets/horizontalGallery1-CmDvKwEb.png" alt="Abstract Form" class="w-full h-full object-cover will-change-transform" >
+                    <div class="slide-text absolute bottom-8 left-8 max-w-[400px] p-6 opacity-1 pointer-events-none">
+                        <h3 class="text-3xl uppercase mb-2">abstract Form</h3>
+                        <p class="text-lg">Exploring geometry and negative space.</p>
                     </div>
                 </div>
             </div>
             <!-- Slide 2 -->
-            <div class="gallery-slide">
-                <div class="slide-img-container">
-                    <img src="/assets/horizontalGallery2-B_qWizjY.png" alt="Golden Hour">
-                    <div class="slide-text">
-                        <h3>Golden Hour</h3>
-                        <p>Warm light casting long, serene shadows.</p>
+            <div class="gallery-slide relative w-screen h-screen flex justify-center items-center p-0 shrink-0">
+                <div class="slide-img-container relative w-full h-full overflow-hidden cursor-pointer">
+                    <img src="/assets/horizontalGallery2-DwmWUEG9.png" alt="Golden Hour" class="w-full h-full object-cover will-change-transform">
+                    <div class="slide-text absolute bottom-8 left-8 max-w-[400px] p-6 opacity-1 pointer-events-none">
+                        <h3 class="text-3xl uppercase mb-2">Golden Hour</h3>
+                        <p class="text-lg">Warm light casting long, serene shadows.</p>
                     </div>
                 </div>
             </div>
             <!-- Slide 3 -->
-            <div class="gallery-slide">
-                <div class="slide-img-container">
-                    <img src="/assets/imagen4-BNpKDDkV.png" alt="Quiet Shadows">
-                    <div class="slide-text">
-                        <h3>Quiet Shadows</h3>
-                        <p>Where details emerge from the dark.</p>
+            <div class="gallery-slide relative w-screen h-screen flex justify-center items-center p-0 shrink-0">
+                <div class="slide-img-container relative w-full h-full overflow-hidden cursor-pointer">
+                    <img src="/assets/horizontalGallery3-DIlnRBu8.png" alt="Quiet Shadows" class="w-full h-full object-cover will-change-transform">
+                    <div class="slide-text absolute bottom-8 left-8 max-w-[400px] p-6 opacity-1 pointer-events-none">
+                        <h3 class="text-3xl uppercase mb-2">Quiet Shadows</h3>
+                        <p class="text-lg">Where details emerge from the dark.</p>
                     </div>
                 </div>
             </div>
             <!-- Slide 4 -->
-            <div class="gallery-slide">
-                <div class="slide-img-container">
-                    <img src="/assets/imagen1-Tc4g8uNg.png" alt="Urban Lines">
-                    <div class="slide-text">
-                        <h3>Urban Lines</h3>
-                        <p>The structured patterns of the city landscape.</p>
+            <div class="gallery-slide relative w-screen h-screen flex justify-center items-center p-0 shrink-0">
+                <div class="slide-img-container relative w-full h-full overflow-hidden cursor-pointer">
+                    <img src="/assets/horizontalGallery4-CFxUtcB8.png" alt="Urban Lines" class="w-full h-full object-cover will-change-transform">
+                    <div class="slide-text absolute bottom-8 left-8 max-w-[400px] p-6 opacity-1 pointer-events-none">
+                        <h3 class="text-3xl uppercase mb-2">Urban Lines</h3>
+                        <p class="text-lg">The structured patterns of the city landscape.</p>
                     </div>
                 </div>
             </div>
             <!-- Slide 5 -->
-            <div class="gallery-slide">
-                <div class="slide-img-container">
-                    <img src="/assets/imagen2-xPHPc2pa.png" alt="Artwork 5">
-                    <div class="slide-text">
-                        <h3>Solitude</h3>
-                        <p>A single perspective in a vast horizon.</p>
+            <div class="gallery-slide relative w-screen h-screen flex justify-center items-center p-0 shrink-0">
+                <div class="slide-img-container relative w-full h-full overflow-hidden cursor-pointer">
+                    <img src="/assets/imagen2-xPHPc2pa.png" alt="Artwork 5" class="w-full h-full object-cover will-change-transform"> 
+                    <div class="slide-text absolute bottom-8 left-8 max-w-[400px] p-6 opacity-1 pointer-events-none">
+                        <h3 class="text-3xl uppercase mb-2">Solitude</h3>
+                        <p class="text-lg">A single perspective in a vast horizon.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <section class="outro">
-        <h1>We make visuals breathe with quiet precision.</h1>
-    </section>
     </main>
 
     <!-- ==========================================
-         SERVICES SECTION (FOCUS LIST & HOVER PREVIEW)
+         EXPLORE PURE POTENCY (GALERÍA DE PRODUCTOS)
          ========================================== -->
-    <section class="services-section">
-        <div class="services-list">
-            <!-- Item 1 -->
-            <div class="service-item" data-image="./assets/images/new_world.png" data-detail="WIREFRAMES">
-                <h2>Art Direction</h2>
-            </div>
-            <!-- Item 2 -->
-            <div class="service-item" data-image="./assets/images/city_life.png" data-detail="IDENTITY">
-                <h2>Branding</h2>
-            </div>
-            <!-- Item 3 -->
-            <div class="service-item" data-image="./assets/images/forest_escape.png" data-detail="CLEAN CODE">
-                <h2>Webflow</h2>
-            </div>
-            <!-- Item 4 -->
-            <div class="service-item" data-image="./assets/images/mountain_view.png" data-detail="RESEARCH">
-                <h2>UI/UX Design</h2>
-            </div>
-            <!-- Item 5 -->
-            <div class="service-item" data-image="./assets/images/spotlight1.png" data-detail="TIMELINES">
-                <h2>GSAP Animations</h2>
-            </div>
-            <!-- Item 6 -->
-            <div class="service-item" data-image="./assets/images/spotlight2.png" data-detail="STRATEGY">
-                <h2>Advertising</h2>
-            </div>
-            <!-- Item 7 -->
-            <div class="service-item" data-image="./assets/images/spotlight3.png" data-detail="OPTIMIZED">
-                <h2>SEO & Content</h2>
-            </div>
-        </div>
+    <section class="explore-section bg-white text-[#3b3b3b] overflow-hidden py-20 md:py-28 max-w-[1500px] mx-auto">
 
-        <!-- Floating Preview Panel (Left Column) -->
-        <div class="services-preview-panel">
-            <img src="/assets/new_world-CkQU9uya.png" alt="Preview 1">
-            <img src="/assets/city_life-DupyFbdS.png" alt="Preview 2">
-            <img src="/assets/forest_escape-CyJh7LlN.png" alt="Preview 3">
-            <img src="/assets/mountain_view-v5h-yoBT.png" alt="Preview 4">
-            <img src="./assets/images/spotlight1.png" alt="Preview 5">
-            <img src="./assets/images/spotlight2.png" alt="Preview 6">
-            <img src="./assets/images/spotlight3.png" alt="Preview 7">
-        </div>
+        <!-- Título -->
+        <h2 class="explore__title text-center leading-[0.95] mb-8 md:mb-10">
+            <span class="line block overflow-hidden">
+                <span class="block text-6xl">Encontrá</span>
+            </span>
+            <span class="line block overflow-hidden">
+                <span class="block font-['Glitten'] text-8xl">Tu belleza</span>
+            </span>
+        </h2>
+
+        <!-- Contenedor para las filas cargadas dinámicamente -->
+        <div class="explore__rows-container"></div>
     </section>
 
+    
     <!-- ==========================================
          PRODUCTS SECTION (THE COLLECTION)
          ========================================== -->
@@ -232,7 +196,7 @@
             <!-- Product Card 2 -->
             <div class="product-card" data-product-id="2">
                 <div class="product-img-wrapper">
-                    <img src="/assets/producto2-CzO49FxT.png" alt="aether. celestial night oil" class="product-image" id="prod-img-2">
+                    <img src="/assets/producto2-BbOzHeWZ.png" alt="aether. celestial night oil" class="product-image" id="prod-img-2">
                     <button class="product-cta">Quick Add</button>
                 </div>
                 <div class="product-info">

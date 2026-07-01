@@ -88,5 +88,92 @@
         }
       ]
     }
-  }
+  },
+  "exploreData": [
+    {
+      "id": "pure-brilliance",
+      "reverse": false,
+      "titleLine1": "Pure",
+      "titleLine2": "Brilliance",
+      "mediaImage": "./assets/images/explore/explore-1.jpg",
+      "mediaAlt": "Pure Brilliance",
+      "mediaClass": "w-full h-full object-cover",
+      "products": [
+        {
+          "category": "Pure Brilliance",
+          "name": "AHA Brightening Exfoliant Cleanser/Face Wash",
+          "price": "$899",
+          "bgColor": "#F1CCCF",
+          "img1": "./assets/images/explore/b1-a.jpg",
+          "img2": "./assets/images/explore/b1-b.jpg",
+          "link": "#"
+        },
+        {
+          "category": "Pure Brilliance",
+          "name": "Bio Exfoliant Brightening Sleeping Mask",
+          "price": "$899",
+          "bgColor": "#F1CCCF",
+          "img1": "./assets/images/explore/b2-a.jpg",
+          "img2": "./assets/images/explore/b2-b.jpg",
+          "link": "#"
+        },
+        {
+          "category": "Pure Brilliance",
+          "name": "AHA Brightening Exfoliant Toner/Essence",
+          "price": "$899",
+          "bgColor": "#F1CCCF",
+          "img1": "./assets/images/explore/b3-a.jpg",
+          "img2": "./assets/images/explore/b3-b.jpg",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "varnaya-blends",
+      "reverse": true,
+      "titleLine1": "Varnaya",
+      "titleLine2": "Blends",
+      "mediaImage": "./assets/images/explore/explore-2.jpg",
+      "mediaAlt": "Varnaya Blends",
+      "mediaClass": "w-full h-[118%] object-cover",
+      "products": [
+        {
+          "category": "Varnaya Blends",
+          "name": "Rosehip & Bakuchiol Skin Perfecting Oil",
+          "price": "$52.00",
+          "bgColor": "#D8D0C4",
+          "img1": "./assets/images/explore/v1-a.jpg",
+          "img2": "./assets/images/explore/v1-b.jpg",
+          "link": "#"
+        },
+        {
+          "category": "Varnaya Blends",
+          "name": "Manjistha and Saffron Moisture Gel",
+          "price": "$48.00",
+          "bgColor": "#D8D0C4",
+          "img1": "./assets/images/explore/v2-a.jpg",
+          "img2": "./assets/images/explore/v2-b.jpg",
+          "link": "#"
+        },
+        {
+          "category": "Varnaya Blends",
+          "name": "Acne Calming Herb Rescue Mask",
+          "price": "$899",
+          "bgColor": "#D8D0C4",
+          "img1": "./assets/images/explore/v3-a.jpg",
+          "img2": "./assets/images/explore/v3-b.jpg",
+          "link": "#"
+        },
+        {
+          "category": "Varnaya Blends",
+          "name": "Kumkumadi Radiance Facial Oil",
+          "price": "$899",
+          "bgColor": "#D8D0C4",
+          "img1": "./assets/images/explore/v4-a.jpg",
+          "img2": "./assets/images/explore/v4-b.jpg",
+          "link": "#"
+        }
+      ]
+    }
+  ]
 }
