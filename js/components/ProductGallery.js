@@ -1,5 +1,6 @@
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { ProductModal } from "./ProductModal.js";
 
 /**
  * Clase ProductGallery
@@ -23,8 +24,38 @@ export class ProductGallery {
     }
 
     init() {
+        this.modal = new ProductModal("#productModal", this.productsData);
         this.setupSwatches();
+        this.setupCardClicks();
         this.setupEntranceAnimation();
+    }
+
+    /**
+     * Cada tarjeta abre el pop-up de vista de producto al clickearla.
+     * Los clicks en los swatches se detienen antes (ver setupSwatches) para
+     * que sólo cambien la variedad y no abran el modal.
+     */
+    setupCardClicks() {
+        this.productCards.forEach((card) => {
+            card.addEventListener("click", () => {
+                const productId = card.getAttribute("data-product-id");
+                const img = card.querySelector(".product-image");
+                const activeSwatch = card.querySelector(".swatch-dot.active");
+                const varietyIndex = activeSwatch
+                    ? parseInt(activeSwatch.getAttribute("data-variety-index"), 10)
+                    : 0;
+                const swatchColors = Array.from(card.querySelectorAll(".swatch-dot")).map(
+                    (s) => s.style.backgroundColor
+                );
+
+                this.modal.open({
+                    productId,
+                    imgSrc: img ? img.getAttribute("src") : "",
+                    varietyIndex,
+                    swatchColors
+                });
+            });
+        });
     }
 
     setupSwatches() {
@@ -40,7 +71,9 @@ export class ProductGallery {
             const swatches = card.querySelectorAll(".swatch-dot");
 
             swatches.forEach((swatch) => {
-                swatch.addEventListener("click", () => {
+                swatch.addEventListener("click", (e) => {
+                    // Evita que el click en el swatch abra el modal de la tarjeta
+                    e.stopPropagation();
                     if (swatch.classList.contains("active")) return;
 
                     // Marcar swatch activo

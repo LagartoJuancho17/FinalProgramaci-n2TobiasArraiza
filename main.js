@@ -53,6 +53,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             
             // Inicializar el scroll suave (Lenis) y vincularlo a ScrollTrigger
             const lenis = new Lenis();
+            // Exponer la instancia para que el modal pueda frenar/reanudar el scroll de fondo
+            window.lenis = lenis;
             lenis.on("scroll", ScrollTrigger.update);
             gsap.ticker.add((time) => {
                 lenis.raf(time * 1000);
