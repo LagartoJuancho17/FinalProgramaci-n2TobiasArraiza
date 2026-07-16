@@ -67,7 +67,7 @@
                 </button>
             </div>
 
-            <!-- Tabs and Controls -->
+            <!-- Controles -->
             <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
                 <div class="flex bg-[#161616] p-1 rounded-lg border border-white/10">
                     <button id="tab-users" class="px-5 py-2 text-xs font-bold uppercase tracking-wider rounded-md bg-white text-black transition-all cursor-pointer">
@@ -87,7 +87,7 @@
                 </div>
             </div>
 
-            <!-- Content Area -->
+
             <div class="bg-[#161616] border border-white/10 rounded-2xl overflow-hidden shadow-xl">
                 <!-- User Table -->
                 <div id="users-table-container" class="overflow-x-auto w-full">
@@ -103,12 +103,11 @@
                             </tr>
                         </thead>
                         <tbody id="users-tbody" class="divide-y divide-white/5 text-sm text-white/80">
-                            <!-- Populated dynamically -->
+
                         </tbody>
                     </table>
                 </div>
 
-                <!-- Content Cards Table -->
                 <div id="content-table-container" class="hidden overflow-x-auto w-full">
                     <table class="w-full text-left border-collapse">
                         <thead>
@@ -121,7 +120,7 @@
                             </tr>
                         </thead>
                         <tbody id="content-tbody" class="divide-y divide-white/5 text-sm text-white/80">
-                            <!-- Populated dynamically -->
+
                         </tbody>
                     </table>
                 </div>
@@ -137,7 +136,7 @@
                 <button id="modal-close" class="text-white/60 hover:text-white text-lg font-bold cursor-pointer">&times;</button>
             </div>
             <form id="modal-form" class="p-6 flex flex-col gap-4 overflow-y-auto max-h-[70vh]">
-                <!-- DYNAMIC FIELDS POPULATED BY JS -->
+
                 <div id="modal-fields" class="flex flex-col gap-4"></div>
 
                 <div class="flex justify-end gap-3 mt-4 pt-4 border-t border-white/5">
