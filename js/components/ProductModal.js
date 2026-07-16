@@ -1,20 +1,6 @@
 import gsap from "gsap";
 
-/**
- * Clase ProductModal
- * Pop-up de "Vista de Producto" que se abre al clickear una tarjeta.
- * Reutiliza las variedades (swatches) de productsData: al abrir muestra la
- * imagen, nombre, descripción, ingredientes derivados y precio del producto,
- * y permite alternar variedades dentro del propio modal.
- *
- * Toda la entrada / salida está animada con GSAP (usa el CustomEase "hop"
- * registrado globalmente en main.js). Se cierra con la X, el overlay o Escape.
- */
 export class ProductModal {
-    /**
-     * @param {string} selector - Selector del contenedor del modal.
-     * @param {Object} productsData - Datos con las variedades por productId.
-     */
     constructor(selector, productsData) {
         this.modal = document.querySelector(selector);
         if (!this.modal) return;
@@ -25,6 +11,7 @@ export class ProductModal {
         this.overlay = this.modal.querySelector(".product-modal__overlay");
         this.panel = this.modal.querySelector(".product-modal__panel");
         this.closeBtn = this.modal.querySelector(".product-modal__close");
+        this.brandEl = this.modal.querySelector(".product-modal__brand");
         this.imgEl = this.modal.querySelector(".product-modal__img");
         this.nameEl = this.modal.querySelector(".product-modal__name");
         this.descEl = this.modal.querySelector(".product-modal__desc");
@@ -35,8 +22,7 @@ export class ProductModal {
         this.ctaBtn = this.modal.querySelector(".product-modal__cta");
         this.ctaLabel = this.modal.querySelector(".product-modal__cta-label");
 
-        // Hijos animables del contenido (stagger de entrada)
-        this.contentChildren = Array.from(this.content.children);
+        this.contentChildren = Array.from(this.content.children); //contenido hijo animable del modal 
 
         this.isOpen = false;
         this.tl = null;
@@ -48,7 +34,7 @@ export class ProductModal {
         this._bindEvents();
     }
 
-    _bindEvents() {
+    _bindEvents() { 
         // Cerrar con overlay o botón X
         this.modal.querySelectorAll("[data-modal-close]").forEach((el) => {
             el.addEventListener("click", () => this.close());
@@ -60,21 +46,13 @@ export class ProductModal {
         };
         document.addEventListener("keydown", this._onKeydown);
 
-        // CTA "Agregar a la bolsa" (feedback visual)
+        // CTA "Agregar al carrito" 
         if (this.ctaBtn) {
             this.ctaBtn.addEventListener("click", () => this._handleAddToBag());
         }
     }
 
-    /**
-     * Abre el modal con los datos del producto clickeado.
-     * @param {Object} opts
-     * @param {string} opts.productId - Id del producto (clave en productsData).
-     * @param {string} opts.imgSrc - Ruta de la imagen mostrada en la tarjeta.
-     * @param {number} [opts.varietyIndex=0] - Variedad activa al abrir.
-     * @param {string[]} [opts.swatchColors=[]] - Colores de los swatches de la tarjeta.
-     */
-    open({ productId, imgSrc, varietyIndex = 0, swatchColors = [] }) {
+    open({ productId, imgSrc, varietyIndex = 0, swatchColors = [], brandName }) {
         const info = this.productsData?.[productId];
         if (!info || !info.varieties?.length) return;
 
@@ -82,6 +60,7 @@ export class ProductModal {
         const idx = Math.min(varietyIndex, this.currentVarieties.length - 1);
 
         if (imgSrc) this.imgEl.setAttribute("src", imgSrc);
+        if (this.brandEl && brandName) this.brandEl.textContent = brandName;
         this._buildSwatches(idx, swatchColors);
         this._renderVariety(idx);
         this._resetCta();
@@ -200,26 +179,30 @@ export class ProductModal {
         this.descEl.textContent = variety.desc;
         this.priceEl.textContent = variety.price;
 
-        this.imgEl.style.setProperty("--hue", variety.style.hue);
-        this.imgEl.style.setProperty("--sat", variety.style.sat);
-        this.imgEl.style.setProperty("--bright", variety.style.bright);
+        if (variety.image) {
+            this.imgEl.setAttribute("src", variety.image);
+        }
 
-        this._renderIngredients(variety.desc);
+        this._renderIngredients(variety.ingredients || variety.desc);
     }
 
-    /** Deriva los ingredientes desde la descripción (separada por "+"). */
-    _renderIngredients(desc) {
+    /** Vuelca los ingredientes en el DOM como chips. */
+    _renderIngredients(ingredients) {
         this.ingredientsEl.innerHTML = "";
-        desc
-            .split("+")
-            .map((s) => s.trim())
-            .filter(Boolean)
-            .forEach((part) => {
-                const chip = document.createElement("span");
-                chip.className = "product-modal__chip";
-                chip.textContent = part;
-                this.ingredientsEl.appendChild(chip);
-            });
+        
+        let list = [];
+        if (Array.isArray(ingredients)) {
+            list = ingredients;
+        } else if (typeof ingredients === "string") {
+            list = ingredients.split("+").map((s) => s.trim()).filter(Boolean);
+        }
+
+        list.forEach((part) => {
+            const chip = document.createElement("span");
+            chip.className = "product-modal__chip";
+            chip.textContent = part;
+            this.ingredientsEl.appendChild(chip);
+        });
     }
 
     _handleAddToBag() {

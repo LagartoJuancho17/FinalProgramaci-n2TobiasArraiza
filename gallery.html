@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery | Drillot Studio</title>
+    <link rel="stylesheet" href="/assets/styles.css">
+</head>
+
+<body class="!bg-white !text-[#3b3b3b] h-screen overflow-hidden m-0">
+
+    <!-- NAVBAR -->
+    <nav class="fixed w-full p-8 flex justify-between items-start z-20 font-['Space_Grotesk']">
+        <div class="logo">
+            <a href="/index.html" class="uppercase !text-[#3b3b3b]">Drillot Studio</a>
+        </div>
+        <div class="nav-links flex gap-10 uppercase">
+            <a href="/index.html" class="!text-[#3b3b3b]">Home</a>
+            <a href="/gallery.html" class="!text-[#3b3b3b] underline underline-offset-4">Gallery</a>
+            <a href="/admin.html" class="!text-[#3b3b3b]">Admin</a>
+        </div>
+    </nav>
+
+    <!-- GALLERIA  -->
+    <div class="gallery">
+        <section id="gallerydrag"
+            class="gallerydrag relative w-full h-screen overflow-hidden touch-none select-none cursor-grab will-change-transform transition-transform duration-500 ease-[cubic-bezier(.18,.71,.11,1)]">
+
+            <!-- TITULO -->
+            <div class="title-wrapper pointer-events-none absolute left-1/2 top-1/2 z-[5] text-center text-[#3b3b3b] will-change-transform">
+                <h1 class="leading-[0.92] tracking-tight">
+                    <span class="line block overflow-hidden">
+                        <span class="line-inner block font-['Space_Grotesk'] font-light">Glow Up</span>
+                    </span>
+                    <span class="line block overflow-hidden">
+                        <span class="line-inner block font-['Glitten'] ">Gallery</span>
+                    </span>
+                </h1>
+            </div>
+
+            <!-- PLANO -->
+            <div class="gallery-container grid w-max [backface-visibility:hidden] will-change-transform pointer-events-none select-none"></div>
+        </section>
+    </div>
+
+    <script type="module" src="/src/gallery.ts"></script>
+</body>
+
+</html>

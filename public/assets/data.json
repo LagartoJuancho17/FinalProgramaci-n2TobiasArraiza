@@ -1,4 +1,5 @@
 {
+
   "carouselSlides": [
     {
       "title": "aether",
@@ -17,6 +18,51 @@
       "image": "./assets/images/video4.mp4"
     }
   ],
+
+
+
+  "productCards": [
+    {
+      "id": "1",
+      "brand": "aether.",
+      "image": "./assets/images/productos/producto1.png",
+      "swatches": [
+        { "color": "#a8dadc", "title": "Original (Niacinamide)" },
+        { "color": "#e8a598", "title": "Rose formulation" },
+        { "color": "#f1c40f", "title": "Vitamin C boost" }
+      ]
+    },
+    {
+      "id": "2",
+      "brand": "aether.",
+      "image": "./assets/images/productos/producto2.png",
+      "swatches": [
+        { "color": "#e1ddd4", "title": "Blue Tansy & Retinol" },
+        { "color": "#b8c7d4", "title": "Midnight Intense Repair" }
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "aether.",
+      "image": "./assets/images/productos/producto3.png",
+      "swatches": [
+        { "color": "#e6b89c", "title": "Warm tint dewy" },
+        { "color": "#f9907b", "title": "Clear matte invisible" }
+      ]
+    },
+    {
+      "id": "4",
+      "brand": "aether.",
+      "image": "./assets/images/productos/producto4.png",
+      "swatches": [
+        { "color": "#b1ac8d", "title": "Algae soothe & hydrate" },
+        { "color": "#a69e94", "title": "Mint cooling refresh" }
+      ]
+    }
+  ],
+
+
+
   "productsData": {
     "1": {
       "varieties": [
@@ -24,19 +70,22 @@
           "name": "elemental hydra-serum",
           "desc": "5% niacinamide + hyaluronic acid",
           "price": "$48.00",
-          "style": { "hue": "0deg", "sat": "1", "bright": "1" }
+          "image": "./assets/images/productos/producto1variante1.png",
+          "ingredients": ["5% niacinamide", "hyaluronic acid"]
         },
         {
           "name": "rose essence hydra-serum",
           "desc": "organic Bulgarian rosewater + hyaluronic acid",
           "price": "$52.00",
-          "style": { "hue": "320deg", "sat": "1.5", "bright": "1.1" }
+          "image": "./assets/images/productos/producto1variante2.png",
+          "ingredients": ["organic Bulgarian rosewater", "hyaluronic acid"]
         },
         {
           "name": "citrus glowing hydra-serum",
           "desc": "3% vitamin C + hyaluronic acid + orange peel oil",
           "price": "$50.00",
-          "style": { "hue": "20deg", "sat": "1.8", "bright": "1.15" }
+          "image": "./assets/images/productos/producto1variante3.png",
+          "ingredients": ["3% vitamin C", "hyaluronic acid", "orange peel oil"]
         }
       ]
     },
@@ -46,13 +95,15 @@
           "name": "celestial night oil",
           "desc": "1% retinol + blue tansy + marula oil",
           "price": "$54.00",
-          "style": { "hue": "235deg", "sat": "2", "bright": "0.8" }
+          "image": "./assets/images/productos/producto2variante1.png",
+          "ingredients": ["1% retinol", "blue tansy", "marula oil"]
         },
         {
           "name": "bakuchiol nocturnal repair",
           "desc": "2% bakuchiol + rosehip seed oil + squalane",
+          "image": "./assets/images/productos/producto2variante2.png",
           "price": "$58.00",
-          "style": { "hue": "280deg", "sat": "1.8", "bright": "0.9" }
+          "ingredients": ["2% bakuchiol", "rosehip seed oil", "squalane"]
         }
       ]
     },
@@ -61,14 +112,16 @@
         {
           "name": "solar active shield",
           "desc": "spf 50+ broad spectrum + niacinamide",
+          "image": "./assets/images/productos/producto3variante1.png",
           "price": "$42.00",
-          "style": { "hue": "40deg", "sat": "1.6", "bright": "1.15" }
+          "ingredients": ["spf 50+ broad spectrum", "niacinamide"]
         },
         {
           "name": "solar matte invisible",
           "desc": "spf 50+ clear zinc + tea tree oil + silica",
+          "image": "./assets/images/productos/producto3variante2.png",
           "price": "$44.00",
-          "style": { "hue": "80deg", "sat": "1.1", "bright": "1.1" }
+          "ingredients": ["spf 50+ clear zinc", "tea tree oil", "silica"]
         }
       ]
     },
@@ -78,17 +131,20 @@
           "name": "botanical essence mist",
           "desc": "algae extract + soothing mint + cucumber juice",
           "price": "$36.00",
-          "style": { "hue": "140deg", "sat": "1.4", "bright": "1" }
+          "image": "./assets/images/productos/producto4variante1.png",
+          "ingredients": ["algae extract", "soothing mint", "cucumber juice"]
         },
         {
           "name": "botanical calming mist",
           "desc": "algae extract + green tea extract + centella asiatica",
           "price": "$38.00",
-          "style": { "hue": "100deg", "sat": "1.3", "bright": "1.05" }
+          "image": "./assets/images/productos/producto4variante2.png",
+          "ingredients": ["algae extract", "green tea extract", "centella asiatica"]
         }
       ]
     }
   },
+
   "exploreData": [
     {
       "id": "pure-brilliance",

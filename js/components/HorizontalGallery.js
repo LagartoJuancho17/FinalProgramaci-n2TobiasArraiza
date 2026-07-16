@@ -1,15 +1,7 @@
 import gsap from "gsap";
-import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-/**
- * Clase HorizontalGallery
- * Controla la sección de galería horizontal, realizando un efecto de scroll pin horizontal
- * y aplicando transiciones de escala y textos dinámicos en los hovers de las tarjetas.
- */
 export class HorizontalGallery {
-    /**
-     * @param {string} containerSelector - Selector del contenedor de la sección de galería horizontal.
-     */
+    
     constructor(containerSelector) {
         this.container = document.querySelector(containerSelector);
         if (!this.container) return;

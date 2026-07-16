@@ -1,14 +1,9 @@
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-
-/**
- * Slider horizontal de una fila de productos.
- * Navegación por flechas, rueda del mouse y arrastre (mouse / touch).
- * El movimiento del track se anima con GSAP.
- */
+/* ENCONTRA TU BELLEZA */
 class Slider {
-    /** @param {HTMLElement} rowEl - Contenedor de la fila (.row) */
-    constructor(rowEl) {
+    /** @param {HTMLElement} rowEl - Contenedor de la fila (.row) */ //@param para que funcione el código en otras partes de la pagina
+    constructor(rowEl) { // Constructor 
         this.viewport = rowEl.querySelector(".slider__viewport");
         this.track = rowEl.querySelector(".slider__track");
         this.cards = [...rowEl.querySelectorAll(".card")];
@@ -27,10 +22,10 @@ class Slider {
 
     // Cantidad de tarjetas visibles según el ancho de pantalla
     get visible() {
-        return window.innerWidth <= 900 ? 1 : 2;
+        return window.innerWidth <= 900 ? 1 : 2; // si es menor a 900px muestra 1, si es mayor muestra 2
     }
 
-    layout() {
+    layout() { // actualiza el layout del slider 
         const vw = this.viewport.clientWidth;
         const v = this.visible;
         this.cardW = (vw - this.gap * (v - 1)) / v;
@@ -47,7 +42,7 @@ class Slider {
         if (this.nextBtn) this.nextBtn.disabled = this.index >= this.maxIndex;
     }
 
-    goTo(i, dur = 0.7) {
+    goTo(i, dur = 0.7) { 
         i = Math.max(0, Math.min(i, this.maxIndex));
         if (i === this.index && !this.animating) {
             this.updateButtons();

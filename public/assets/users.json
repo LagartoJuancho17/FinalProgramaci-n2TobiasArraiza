@@ -1,0 +1,20 @@
+[
+  {
+    "name": "toto1234",
+    "password": "prog2final",
+    "email": "toto@drillot.studio",
+    "isSubscribed": true,
+    "isAdmin": true,
+    "registerDate": "2026-07-15T09:00:00Z",
+    "likedPostIDs": []
+  },
+  {
+    "name": "sofia_p",
+    "password": "sofia123",
+    "email": "sofia@example.com",
+    "isSubscribed": false,
+    "isAdmin": false,
+    "registerDate": "2026-07-14T15:30:00Z",
+    "likedPostIDs": ["pure-brilliance"]
+  }
+]

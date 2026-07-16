@@ -4,19 +4,20 @@ import { CustomEase } from "gsap/CustomEase";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Lenis from "lenis";
 
-// Importar cargador y clases de componentes
+// Importamos cargador y clases de componentes
 import { DataLoader } from "./js/services/DataLoader.js";
 import { Loader } from "./js/components/Loader.js";
 import { Carousel } from "./js/components/Carousel.js";
 import { Spotlight } from "./js/components/Spotlight.js";
 import { HorizontalGallery } from "./js/components/HorizontalGallery.js";
+import { ProductGrid } from "./js/components/ProductGrid.js";
 import { ProductGallery } from "./js/components/ProductGallery.js";
 import { Explore } from "./js/components/Explore.js";
 
-// Registrar plugins de GSAP
+// PLUGINS GSAP
 gsap.registerPlugin(SplitText, CustomEase, ScrollTrigger);
 
-// Crear aceleración personalizada para las transiciones de slides
+// Transicion personalizada
 CustomEase.create(
     "hop",
     "M0,0 C0.071,0.505 0.192,0.726 0.318,0.852 0.45,0.984 0.504,1 1,1"
@@ -28,11 +29,12 @@ let carouselInstance = null;
 /**
  * Inicialización de todos los componentes de la página en segundo plano
  * @param {Object} data - Datos dinámicos cargados desde el JSON.
- */
+ */ // 
 function initAllComponents(data) {
     carouselInstance = new Carousel(".carousel", data.carouselSlides);
     new Spotlight(".spotlight");
     new HorizontalGallery(".horizontal-gallery");
+    new ProductGrid(".products-grid", data.productCards, data.productsData);
     new ProductGallery(".products-section", data.productsData);
     new Explore(".explore-section", data.exploreData);
 }

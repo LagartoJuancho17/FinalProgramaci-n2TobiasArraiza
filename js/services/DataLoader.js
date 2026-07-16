@@ -1,23 +1,29 @@
-/**
- * DataLoader
- * Servicio para cargar datos en formato JSON de manera asincrónica utilizando Fetch API.
- */
+
 export class DataLoader {
-    /**
-     * Carga un archivo JSON de forma asincrónica.
-     * @param {string} url - La ruta del archivo JSON.
-     * @returns {Promise<Object>} Promesa que resuelve a los datos JSON.
-     */
     static async loadData(url) {
         try {
+            const isUsers = url.includes("users.json");
+            const storageKey = isUsers ? "aether_users" : "aether_data";
+            
+            const localData = localStorage.getItem(storageKey);
+            if (localData) {
+                return JSON.parse(localData);
+            }
+
             const response = await fetch(url);
             if (!response.ok) {
                 throw new Error(`Error al cargar el JSON: ${response.status} ${response.statusText}`);
             }
-            return await response.json();
+            const data = await response.json();
+            localStorage.setItem(storageKey, JSON.stringify(data));
+            return data;
         } catch (error) {
-            console.error(`DataLoader Error: fallo al cargar los datos desde ${url}`, error);
+            console.error(`Error: fallo al cargar los datos desde ${url}`, error);
             throw error;
         }
+    }
+
+    static saveData(key, data) {
+        localStorage.setItem(key, JSON.stringify(data));
     }
 }

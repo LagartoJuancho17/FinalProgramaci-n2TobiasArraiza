@@ -2,17 +2,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ProductModal } from "./ProductModal.js";
 
-/**
- * Clase ProductGallery
- * Maneja la visualización de tarjetas de productos, permitiendo alternar
- * entre variedades (swatches) que modifican la imagen (filtros css) y los textos dinámicamente.
- * También controla la animación de entrada inicial (stagger) de las tarjetas.
- */
 export class ProductGallery {
-    /**
-     * @param {string} containerSelector - Selector del contenedor de la sección de productos.
-     * @param {Object} productsData - Objeto de datos con las variedades de los productos.
-     */
     constructor(containerSelector, productsData) {
         this.container = document.querySelector(containerSelector);
         if (!this.container) return;
@@ -30,11 +20,6 @@ export class ProductGallery {
         this.setupEntranceAnimation();
     }
 
-    /**
-     * Cada tarjeta abre el pop-up de vista de producto al clickearla.
-     * Los clicks en los swatches se detienen antes (ver setupSwatches) para
-     * que sólo cambien la variedad y no abran el modal.
-     */
     setupCardClicks() {
         this.productCards.forEach((card) => {
             card.addEventListener("click", () => {
@@ -47,12 +32,15 @@ export class ProductGallery {
                 const swatchColors = Array.from(card.querySelectorAll(".swatch-dot")).map(
                     (s) => s.style.backgroundColor
                 );
+                const brandEl = card.querySelector(".product-brand");
+                const brandName = brandEl ? brandEl.textContent : "aether.";
 
                 this.modal.open({
                     productId,
                     imgSrc: img ? img.getAttribute("src") : "",
                     varietyIndex,
-                    swatchColors
+                    swatchColors,
+                    brandName
                 });
             });
         });
@@ -107,10 +95,10 @@ export class ProductGallery {
                                 descEl.textContent = variety.desc;
                                 priceEl.textContent = variety.price;
 
-                                // Cambiar variables CSS personalizadas del filtro de la imagen
-                                img.style.setProperty("--hue", variety.style.hue);
-                                img.style.setProperty("--sat", variety.style.sat);
-                                img.style.setProperty("--bright", variety.style.bright);
+                                // Cambiar imagen si la variedad tiene una específica
+                                if (variety.image) {
+                                    img.src = variety.image;
+                                }
                             }
                         }, 0)
                         .to(img, {

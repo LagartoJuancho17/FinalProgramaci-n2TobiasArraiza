@@ -1,15 +1,7 @@
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-/**
- * Clase Spotlight
- * Controla la animación del scroll vertical (pin) de la sección spotlight,
- * animando la entrada y rotación de imágenes usando ScrollTrigger.
- */
 export class Spotlight {
-    /**
-     * @param {string} containerSelector - Selector del contenedor de la sección spotlight.
-     */
     constructor(containerSelector) {
         this.container = document.querySelector(containerSelector);
         if (!this.container) return;

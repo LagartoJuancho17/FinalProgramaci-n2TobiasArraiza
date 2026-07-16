@@ -1,14 +1,6 @@
 import gsap from "gsap";
 
-/**
- * Clase Loader
- * Maneja la pantalla de carga animada (loading screen) al inicio del sitio.
- * Controla el contador numérico de progreso (0% a 100%), la barra de progreso,
- * la entrada de los logos/textos, el bloqueo de scroll y la salida animada del loader.
- * 
- * NOTA: Utiliza aceleraciones nativas de GSAP (power2/power4) para máxima compatibilidad
- * sin requerir el plugin CustomEase.
- */
+
 export class Loader {
     /**
      * @param {string} selector - Selector del contenedor del loader.

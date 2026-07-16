@@ -1,15 +1,6 @@
 import gsap from "gsap";
 import { SplitText } from "gsap/SplitText";
-
-/**
- * Clase Carousel
- * Maneja el carrusel de imágenes/videos del hero con transiciones clip-path y SplitText en los títulos.
- */
 export class Carousel {
-    /**
-     * @param {string} containerSelector - Selector del contenedor del carrusel.
-     * @param {Array} slidesData - Array con los objetos de datos del carrusel.
-     */
     constructor(containerSelector, slidesData) {
         this.container = document.querySelector(containerSelector);
         if (!this.container) return;
@@ -37,7 +28,7 @@ export class Carousel {
         this.createInitialSlide();
         this.bindCarouselControls();
 
-        // Intentar reproducir el video con interacción si el navegador bloquea el autoplay inicial
+        // ERRORES PARA QUE FUNCIONE EL AUTOPLAY DE ENTRADA
         const playVideoOnInteraction = () => {
             this.playActiveVideo();
             window.removeEventListener("click", playVideoOnInteraction);
@@ -50,6 +41,7 @@ export class Carousel {
     }
 
     startTextAnimation() {
+        //MANEJO DE ERORR
         // Evitar que la página quede en blanco si document.fonts.ready tarda o se bloquea
         let fontsLoaded = false;
         const initTextAnimations = () => {
@@ -64,7 +56,7 @@ export class Carousel {
         setTimeout(initTextAnimations, 400);
     }
 
-    playActiveVideo() {
+    playActiveVideo() { // reproducir video en caso de que el navegador bloquee el autoplay
         const currentSlide = this.carouselImages.querySelector(".img:last-child");
         if (currentSlide) {
             const video = currentSlide.querySelector("video");
@@ -77,7 +69,7 @@ export class Carousel {
     }
 
 
-
+    // Crear titulo del video
     createCarouselTitles() {
         this.slides.forEach((slide) => {
             const slideTitleContainer = document.createElement("div");
@@ -85,7 +77,7 @@ export class Carousel {
 
             const slideTitle = document.createElement("h1");
             slideTitle.classList.add("title");
-            slideTitle.dataset.text = slide.title;
+            slideTitle.dataset.text = slide.title; // guardo el en dataset por si falla el split text de GSAP 
             slideTitle.textContent = slide.title;
 
             slideTitleContainer.appendChild(slideTitle);
@@ -139,7 +131,7 @@ export class Carousel {
             gsap.set(slideTitle, { opacity: 1 });
         });
     }
-
+    //EVENTOS DE NAVEGACION POR BOTONES DE FLECHAS
     bindCarouselControls() {
         this.nextBtn.addEventListener("click", () => {
             if (this.isAnimating) return;
@@ -221,7 +213,7 @@ export class Carousel {
 
         newSlideImgContainer.appendChild(newSlideMedia);
         this.carouselImages.appendChild(newSlideImgContainer);
-        
+
         if (newSlideMedia.tagName === "VIDEO") {
             newSlideMedia.play().catch((err) => {
                 console.warn("Carousel: Play prevented on slide transition:", err);
@@ -235,14 +227,14 @@ export class Carousel {
                 ease: "hop",
             });
         }
-        
+
         gsap.fromTo(
             newSlideImgContainer,
             {
                 clipPath:
-                direction === "left"
-                    ? "polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%)"
-                    : "polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)",
+                    direction === "left"
+                        ? "polygon(0% 0%, 0% 0%, 0% 100%, 0% 100%)"
+                        : "polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%)",
             },
             {
                 clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
@@ -260,7 +252,7 @@ export class Carousel {
             duration: 1.5,
             ease: "hop",
         });
-        
+
         this.updateActiveTextSlide();
     }
 

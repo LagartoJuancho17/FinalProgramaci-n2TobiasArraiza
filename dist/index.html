@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Programación 2 | Tobias Arraiza</title>
 
-  <script type="module" crossorigin src="/assets/index-CC-Ov6-G.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-7JTN7yUK.css">
+  <script type="module" crossorigin src="/assets/main-jZTnTzqN.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/gsap-BJujGWlz.js">
+  <link rel="stylesheet" crossorigin href="/assets/gsap-BV7ivE22.css">
 </head>
 
 <body>
@@ -37,8 +38,8 @@
             <a href="" class="uppercase">Drillot Studio</a>
         </div>
         <div class="nav-links flex gap-3 decoration uppercase inline-block">
-            <a href="">Home</a>
-            <a href="">Projects</a>
+            <a href="/index.html">Home</a>
+            <a href="/gallery.html">Projects</a>
             <a href="">About Us</a>
         </div>
     </nav>
@@ -143,7 +144,7 @@
     </main>
 
     <!-- ==========================================
-         EXPLORE PURE POTENCY (GALERÍA DE PRODUCTOS)
+         (GALERÍA DE PRODUCTOS)
          ========================================== -->
     <section class="explore-section bg-white text-[#3b3b3b] overflow-hidden py-20 md:py-28 max-w-[1500px] mx-auto">
 
@@ -172,88 +173,112 @@
         </div>
         
         <div class="products-grid">
-            <!-- Product Card 1 -->
-            <div class="product-card" data-product-id="1">
-                <div class="product-img-wrapper">
-                    <img src="/assets/producto1-DSHirIjs.png" alt="aether. elemental hydra-serum" class="product-image" id="prod-img-1">
-                    <button class="product-cta">Quick Add</button>
+            <!-- Los productos se cargan dinámicamente mediante js/components/ProductGrid.js -->
+        </div>
+    </section>
+
+    <!-- ==========================================
+         FOOTER SECTION
+         ========================================== -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-grid">
+                <!-- Column 1: Brand Info -->
+                <div class="footer-brand-col">
+                    <span class="footer-logo">aether.</span>
+                    <p class="footer-tagline">Equilibrio natural para tu piel. Fórmulas botánicas diseñadas para restaurar tu esencia diaria.</p>
                 </div>
-                <div class="product-info">
-                    <span class="product-brand">aether.</span>
-                    <h3 class="product-name" id="prod-name-1">elemental hydra-serum</h3>
-                    <p class="product-desc" id="prod-desc-1">5% niacinamide + hyaluronic acid</p>
-                    <div class="product-meta">
-                        <span class="product-price" id="prod-price-1">$48.00</span>
-                        <div class="product-swatches">
-                            <button class="swatch-dot active" data-variety-index="0" style="background-color: #a8dadc;" title="Original (Niacinamide)"></button>
-                            <button class="swatch-dot" data-variety-index="1" style="background-color: #e8a598;" title="Rose formulation"></button>
-                            <button class="swatch-dot" data-variety-index="2" style="background-color: #f1c40f;" title="Vitamin C boost"></button>
-                        </div>
-                    </div>
+
+                <!-- Column 2: Shop Links -->
+                <div class="footer-links-col">
+                    <h4 class="footer-heading">Colección</h4>
+                    <ul class="footer-links">
+                        <li><a href="#products" class="footer-link">Hydra-serum</a></li>
+                        <li><a href="#products" class="footer-link">Celestial Night Oil</a></li>
+                        <li><a href="#products" class="footer-link">Solar Active Shield</a></li>
+                        <li><a href="#products" class="footer-link">Calming Mist</a></li>
+                    </ul>
+                </div>
+
+                <!-- Column 3: Company Links -->
+                <div class="footer-links-col">
+                    <h4 class="footer-heading">Filosofía</h4>
+                    <ul class="footer-links">
+                        <li><a href="#" class="footer-link">Nuestra Historia</a></li>
+                        <li><a href="#" class="footer-link">Ingredientes Limpios</a></li>
+                        <li><a href="#" class="footer-link">Sustentabilidad</a></li>
+                        <li><a href="#" class="footer-link">Contacto</a></li>
+                    </ul>
+                </div>
+
+                <!-- Column 4: Newsletter -->
+                <div class="footer-newsletter-col">
+                    <h4 class="footer-heading">Suscribite</h4>
+                    <p class="footer-newsletter-text">Recibí actualizaciones sobre lanzamientos y rituales de cuidado.</p>
+                    <form class="footer-newsletter-form" onsubmit="event.preventDefault();">
+                        <input type="email" placeholder="Tu email" class="footer-input" required>
+                        <button type="submit" class="footer-submit-btn" aria-label="Suscribirse">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                                <polyline points="12 5 19 12 12 19"></polyline>
+                            </svg>
+                        </button>
+                    </form>
                 </div>
             </div>
 
-            <!-- Product Card 2 -->
-            <div class="product-card" data-product-id="2">
-                <div class="product-img-wrapper">
-                    <img src="/assets/producto2-BbOzHeWZ.png" alt="aether. celestial night oil" class="product-image" id="prod-img-2">
-                    <button class="product-cta">Quick Add</button>
-                </div>
-                <div class="product-info">
-                    <span class="product-brand">aether.</span>
-                    <h3 class="product-name" id="prod-name-2">celestial night oil</h3>
-                    <p class="product-desc" id="prod-desc-2">1% retinol + blue tansy</p>
-                    <div class="product-meta">
-                        <span class="product-price" id="prod-price-2">$54.00</span>
-                        <div class="product-swatches">
-                            <button class="swatch-dot active" data-variety-index="0" style="background-color: #4b3f72;" title="Blue Tansy & Retinol"></button>
-                            <button class="swatch-dot" data-variety-index="1" style="background-color: #1f2041;" title="Midnight Intense Repair"></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <hr class="footer-divider">
 
-            <!-- Product Card 3 -->
-            <div class="product-card" data-product-id="3">
-                <div class="product-img-wrapper">
-                    <img src="/assets/producto3-CvjSDRq6.png" alt="aether. solar active shield" class="product-image" id="prod-img-3">
-                    <button class="product-cta">Quick Add</button>
-                </div>
-                <div class="product-info">
-                    <span class="product-brand">aether.</span>
-                    <h3 class="product-name" id="prod-name-3">solar active shield</h3>
-                    <p class="product-desc" id="prod-desc-3">spf 50+ broad spectrum</p>
-                    <div class="product-meta">
-                        <span class="product-price" id="prod-price-3">$42.00</span>
-                        <div class="product-swatches">
-                            <button class="swatch-dot active" data-variety-index="0" style="background-color: #e6b89c;" title="Warm tint dewy"></button>
-                            <button class="swatch-dot" data-variety-index="1" style="background-color: #ead5c3;" title="Clear matte invisible"></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Product Card 4 -->
-            <div class="product-card" data-product-id="4">
-                <div class="product-img-wrapper">
-                    <img src="/assets/producto4-C31qCnPm.png" alt="aether. botanical essence mist" class="product-image" id="prod-img-4">
-                    <button class="product-cta">Quick Add</button>
-                </div>
-                <div class="product-info">
-                    <span class="product-brand">aether.</span>
-                    <h3 class="product-name" id="prod-name-4">botanical essence mist</h3>
-                    <p class="product-desc" id="prod-desc-4">algae extract + soothing mint</p>
-                    <div class="product-meta">
-                        <span class="product-price" id="prod-price-4">$36.00</span>
-                        <div class="product-swatches">
-                            <button class="swatch-dot active" data-variety-index="0" style="background-color: #2ec4b6;" title="Algae soothe & hydrate"></button>
-                            <button class="swatch-dot" data-variety-index="1" style="background-color: #c7f9cc;" title="Mint cooling refresh"></button>
-                        </div>
-                    </div>
+            <div class="footer-bottom">
+                <p class="footer-copy">&copy; 2026 AETHER. Todos los derechos reservados.</p>
+                <div class="footer-socials">
+                    <a href="#" class="footer-social-link">Instagram</a>
+                    <a href="#" class="footer-social-link">Pinterest</a>
+                    <a href="#" class="footer-social-link">Spotify</a>
                 </div>
             </div>
         </div>
-    </section>
+    </footer>
+
+    <!-- ==========================================
+         PRODUCT QUICK-VIEW MODAL (POP UP)
+         ========================================== -->
+    <div class="product-modal" id="productModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalProductName">
+        <div class="product-modal__overlay" data-modal-close></div>
+
+        <div class="product-modal__panel" role="document">
+            <button class="product-modal__close" data-modal-close aria-label="Cerrar vista de producto">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                    <line x1="18" y1="6" x2="6" y2="18" />
+                    <line x1="6" y1="6" x2="18" y2="18" />
+                </svg>
+            </button>
+
+            <div class="product-modal__media">
+                <div class="product-modal__img-wrap">
+                    <img class="product-modal__img" src="" alt="Vista de producto">
+                </div>
+            </div>
+
+            <div class="product-modal__content">
+                <span class="product-modal__brand">aether.</span>
+                <h3 class="product-modal__name" id="modalProductName"></h3>
+                <p class="product-modal__desc"></p>
+                <div class="product-modal__ingredients"></div>
+                <div class="product-modal__swatch-block">
+                    <span class="product-modal__label">Variedad</span>
+                    <div class="product-modal__swatches"></div>
+                </div>
+                <div class="product-modal__meta">
+                    <span class="product-modal__price"></span>
+                    <span class="product-modal__stock">En stock</span>
+                </div>
+                <button class="product-modal__cta" type="button">
+                    <span class="product-modal__cta-label">Agregar a la bolsa</span>
+                </button>
+            </div>
+        </div>
+    </div>
 
 </body>
 </html>
